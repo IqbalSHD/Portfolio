@@ -8,7 +8,7 @@ I am a degree student(final semester) in Computer Science with a passion for lea
           
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ## Work Experience
-**»Internship Student At Pejabat Daerah & Tanah, Alor Setar, Kedah. (_Diploma - 2020_)**
+**Internship Student At Pejabat Daerah & Tanah, Alor Setar, Kedah. (_Diploma - 2020_)**
 - Build a system (Sistem Penyimpanan Barang) to store data about office items and assets.
 - Write in JAVA using NetBeans.
 - The system can/has:
@@ -17,7 +17,7 @@ I am a degree student(final semester) in Computer Science with a passion for lea
    - create, read, update, delete and search
 - Creating Posters and corporate video
 
-**»Sales Promoter At Parkson Aman Central, Alor Setar, Kedah.**
+**Sales Promoter At Parkson Aman Central, Alor Setar, Kedah.**
 - Selling and promoting handbags.
 - Make weekly and monthly sales reports.
 
@@ -28,7 +28,7 @@ I am a degree student(final semester) in Computer Science with a passion for lea
 - Factory
 
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-## ♦Projects
+## Projects
 **Heart Disease Prediction Using Random Forest**
 - Write in Python
 - Using machine learning Random Forest algorithm
@@ -45,8 +45,8 @@ I am a degree student(final semester) in Computer Science with a passion for lea
 - Use XAMPP with MySQL for database.
 
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-## ♦Skill
-##### Programming Language: Java ║ Python ║ C++ ║ PHP ║ HTML & CSS ║ MySQL
+## Skill
+#### Programming : Java ║ Python ║ C++ ║ PHP ║ HTML & CSS ║ MySQL
 **Multimedia:**
 - Video Editing (Adobe Premiere Pro)
 - Photo Editing (Adobe Photoshop)
