@@ -1,35 +1,48 @@
-# Data Scientist
+# BACHELOR OF COMPUTER SCIENCE
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Bachelor of Computer Science | Universiti Teknologi MARA, Kampus Cawangan Kuala Terengganu, Malaysia (_Feb 2021 – Currently)_) - CGPA: 2.80
+- Diploma in Computer Science	| Universiti Teknologi MARA, Kampus Sunagi Petani Cawangan Kedah, Malaysia (_Sep 2018 – Jan 2021)_)	 			      
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Internship Student At Pejabat Daerah & Tanah, Alor Setar, Kedah. (_Diploma - 2020)_)**
+- Build a system (Sistem Penyimpanan Barang) to store data about office items and assets.
+- The system can calculate the asset value by month and year
+- Making Posters and corporate video
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Sales Promoter At Parkson Aman Central, Alor Setar, Kedah.**
+- Selling and promoting handbags.
+- Make weekly and monthly sales reports.
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
+**Other(_part-time_)**
+- Supermarket LOTUS Penang
+- Cinema GSC Penang
+- Restaurant
+- Factory
+
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+## Projects
+### Heart Disease Prediction Using Random Forest
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+• Write in Python
+• Using machine learning Random Forest algorithm
+• Using the K-Nearest Neighbors algorithm (KNN) - additional for analysis
+• Using Support Vector Classifier (SVC) - additional for analysis
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Animal Recognition Using CNN
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+• Write in MATLAB
+• Using machine learning Convolutional Neural Network (CNN)
+• Image Processing.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+### Online Ordering System (website)
+
+• Write in HTML, CSS and PHP
+
+#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
