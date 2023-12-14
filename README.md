@@ -3,10 +3,8 @@ I am a degree student(final semester) in Computer Science with a passion for lea
 
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ## Education
-- Bachelor of Computer Science | Universiti Teknologi MARA, Kampus Cawangan Kuala Terengganu, Malaysia
-  (_Feb 2021 – Currently_) - CGPA: 2.80
-- Diploma in Computer Science	| Universiti Teknologi MARA, Kampus Sunagi Petani Cawangan Kedah, Malaysia
-  (_Sep 2018 – Jan 2021_)
+- Bachelor of Computer Science | Universiti Teknologi MARA, Kampus Cawangan Kuala Terengganu, Malaysia (_Feb 2021 – Currently_) - CGPA: 2.80
+- Diploma in Computer Science	| Universiti Teknologi MARA, Kampus Sunagi Petani Cawangan Kedah, Malaysia (_Sep 2018 – Jan 2021_)
           
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ## Work Experience
@@ -14,9 +12,9 @@ I am a degree student(final semester) in Computer Science with a passion for lea
 - Build a system (Sistem Penyimpanan Barang) to store data about office items and assets.
 - Write in JAVA using NetBeans.
 - The system can/has:
- - login logout admin
- - calculate the asset value by month and year
- - create, read, update, delete and search
+   - login logout admin
+   - calculate the asset value by month and year
+   - create, read, update, delete and search
 - Creating Posters and corporate video
 
 **Sales Promoter At Parkson Aman Central, Alor Setar, Kedah.**
