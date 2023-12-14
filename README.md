@@ -11,10 +11,10 @@ I am a degree student(final semester) in Computer Science with a passion for lea
 **Internship Student At Pejabat Daerah & Tanah, Alor Setar, Kedah. (_Diploma - 2020_)**
 - Build a system (Sistem Penyimpanan Barang) to store data about office items and assets.
 - Write in JAVA using NetBeans.
-- The system can/has: 
-  -- login logout admin
-  -- calculate the asset value by month and year
- -- create, read, update, delete and search
+- The system can/has:
+ - login logout admin
+ - calculate the asset value by month and year
+ - create, read, update, delete and search
 - Creating Posters and corporate video
 
 **Sales Promoter At Parkson Aman Central, Alor Setar, Kedah.**
@@ -47,12 +47,12 @@ I am a degree student(final semester) in Computer Science with a passion for lea
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ## Skill
 #### Programming Language: Java ║ Python ║ C++ ║ PHP ║ HTML & CSS ║ MySQL
-*Multimedia:*
+**Multimedia:**
 - Video Editing (Adobe Premiere Pro)
 - Photo Editing (Adobe Photoshop)
 - Designing GUI for web application
 
-*Language:*
+**Language:**
 - Bahasa Malaysia (native)
 - English (intermediate)
 
