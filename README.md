@@ -9,3 +9,6 @@ big impact project 1!
 ### Projects
 EEG Band Discovery
 -| I
+hgjhgjhvjvjhk
+
+fghfghdfhdfhgdf
