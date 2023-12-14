@@ -1,5 +1,5 @@
 title: IQBAL
 logo: github/g7 low.jpg
-#description: text below image
-show_downloads: true
+description: text below image
+show_downloads: false
 theme: jekyll-theme-minimal
