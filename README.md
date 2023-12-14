@@ -1,14 +1,14 @@
-# ♦BACHELOR OF COMPUTER SCIENCE
+# BACHELOR OF COMPUTER SCIENCE
 I am a degree student(final semester) in Computer Science with a passion for learning. I am looking for an internship placement to do industrial training and gather knowledge and skills from the company. A disciplined individual who is committed to fostering and maintaining strong relationships with colleagues. I can work well in a team or individually. I also look forward to learning new things in a real work environment.
 
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-## ♦Education
+## Education
 - Bachelor of Computer Science | Universiti Teknologi MARA, Kampus Cawangan Kuala Terengganu, Malaysia (_Feb 2021 – Currently_) - CGPA: 2.80
 - Diploma in Computer Science	| Universiti Teknologi MARA, Kampus Sunagi Petani Cawangan Kedah, Malaysia (_Sep 2018 – Jan 2021_)
           
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-## ♦Work Experience
-**►Internship Student At Pejabat Daerah & Tanah, Alor Setar, Kedah. (_Diploma - 2020_)**
+## Work Experience
+**»Internship Student At Pejabat Daerah & Tanah, Alor Setar, Kedah. (_Diploma - 2020_)**
 - Build a system (Sistem Penyimpanan Barang) to store data about office items and assets.
 - Write in JAVA using NetBeans.
 - The system can/has:
@@ -17,7 +17,7 @@ I am a degree student(final semester) in Computer Science with a passion for lea
    - create, read, update, delete and search
 - Creating Posters and corporate video
 
-**►Sales Promoter At Parkson Aman Central, Alor Setar, Kedah.**
+**»Sales Promoter At Parkson Aman Central, Alor Setar, Kedah.**
 - Selling and promoting handbags.
 - Make weekly and monthly sales reports.
 
@@ -46,7 +46,7 @@ I am a degree student(final semester) in Computer Science with a passion for lea
 
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ## ♦Skill
-#### Programming Language: Java ║ Python ║ C++ ║ PHP ║ HTML & CSS ║ MySQL
+##### Programming Language: Java ║ Python ║ C++ ║ PHP ║ HTML & CSS ║ MySQL
 **Multimedia:**
 - Video Editing (Adobe Premiere Pro)
 - Photo Editing (Adobe Photoshop)
