@@ -8,11 +8,7 @@ I am a degree student(final semester) in Computer Science with a passion for lea
 - Diploma in Computer Science	| Universiti Teknologi MARA, Kampus Sunagi Petani Cawangan Kedah, Malaysia (_Sep 2018 – Jan 2021)_)	 			      
 
 
-
-
-
-
-
+##
 ## Work Experience
 **Internship Student At Pejabat Daerah & Tanah, Alor Setar, Kedah. (_Diploma - 2020_)**
 - Build a system (Sistem Penyimpanan Barang) to store data about office items and assets.
