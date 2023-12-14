@@ -1,13 +1,20 @@
 # BACHELOR OF COMPUTER SCIENCE
+I am a degree student(final semester) in Computer Science with a passion for learning. I am looking for an internship placement to do industrial training and gather knowledge and skills from the company. A disciplined individual who is committed to fostering and maintaining strong relationships with colleagues. I can work well in a team or individually. I also look forward to learning new things in a real work environment.
 
 
 
 ## Education
-- Bachelor of Computer Science | Universiti Teknologi MARA, Kampus Cawangan Kuala Terengganu, Malaysia (_Feb 2021 – Currently)_) - CGPA: 2.80
+- Bachelor of Computer Science | Universiti Teknologi MARA, Kampus Cawangan Kuala Terengganu, Malaysia (_Feb 2021 – Currently_) - CGPA: 2.80
 - Diploma in Computer Science	| Universiti Teknologi MARA, Kampus Sunagi Petani Cawangan Kedah, Malaysia (_Sep 2018 – Jan 2021)_)	 			      
 
+
+
+
+
+
+
 ## Work Experience
-**Internship Student At Pejabat Daerah & Tanah, Alor Setar, Kedah. (_Diploma - 2020)_)**
+**Internship Student At Pejabat Daerah & Tanah, Alor Setar, Kedah. (_Diploma - 2020_)**
 - Build a system (Sistem Penyimpanan Barang) to store data about office items and assets.
 - The system can calculate the asset value by month and year
 - Making Posters and corporate video
