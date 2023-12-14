@@ -12,9 +12,9 @@ I am a degree student(final semester) in Computer Science with a passion for lea
 - Build a system (Sistem Penyimpanan Barang) to store data about office items and assets.
 - Write in JAVA using NetBeans.
 - The system can/has: 
-  login logout admin
-  calculate the asset value by month and year
-  create, read, update, delete and search
+  -- login logout admin
+  -- calculate the asset value by month and year
+ -- create, read, update, delete and search
 - Creating Posters and corporate video
 
 **Sales Promoter At Parkson Aman Central, Alor Setar, Kedah.**
