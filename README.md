@@ -36,6 +36,7 @@ I am a degree student(final semester) in Computer Science with a passion for lea
 - Using Support Vector Classifier (SVC) - additional for analysis
 
 **Animal Recognition Using CNN**
+![animal recognition](/github/Screenshot 2023-01-24 104710.png)
 - Write in MATLAB
 - Using machine learning Convolutional Neural Network (CNN)
 - Image Processing.
