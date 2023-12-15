@@ -1,12 +1,6 @@
 # BACHELOR OF COMPUTER SCIENCE
 I am a degree student(final semester) in Computer Science with a passion for learning. I am looking for an internship placement to do industrial training and gather knowledge and skills from the company. A disciplined individual who is committed to fostering and maintaining strong relationships with colleagues. I can work well in a team or individually. I also look forward to learning new things in a real work environment.
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-
-#### Address ║ No.112 Kampung Pering, 06100 Kubang Pasu, Kedah.
-#### Mobile ║ +6019-6356149
-#### Email ║ iqbal22shd@gmail.com
-
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ## Education
 - Bachelor of Computer Science | Universiti Teknologi MARA, Kampus Cawangan Kuala Terengganu, Malaysia (_Feb 2021 – Currently_) - CGPA: 2.80
 - Diploma in Computer Science	| Universiti Teknologi MARA, Kampus Sunagi Petani Cawangan Kedah, Malaysia (_Sep 2018 – Jan 2021_)
@@ -61,6 +55,10 @@ I am a degree student(final semester) in Computer Science with a passion for lea
 - Bahasa Malaysia (native)
 - English (intermediate)
 
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+#### Address ║ No.112 Kampung Pering, 06100 Kubang Pasu, Kedah.
+#### Mobile ║ +6019-6356149
+#### Email ║ iqbal22shd@gmail.com
 
 
 
@@ -68,6 +66,4 @@ I am a degree student(final semester) in Computer Science with a passion for lea
 
 
 
-
-
-- [Data Science Blog](https://medium.com/@shawhin)
+[Data Science Blog](https://medium.com/@shawhin)
