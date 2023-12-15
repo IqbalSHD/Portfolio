@@ -28,22 +28,20 @@ I am a degree student(final semester) in Computer Science with a passion for lea
 
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ## Projects
-**Heart Disease Prediction Using Random Forest**
+**1. Heart Disease Prediction Using Random Forest**
 ![gui random forest](/github/rf.jpg)
 - Write in Python
 - Using machine learning Random Forest algorithm
 - Using the K-Nearest Neighbors algorithm (KNN) - additional for analysis
 - Using Support Vector Classifier (SVC) - additional for analysis
 
-**Animal Recognition Using CNN**
-
+**2. Animal Recognition Using CNN**
 ![animal recognition](/github/Screenshot 2023-01-24 104710.png)
-
 - Write in MATLAB
 - Using machine learning Convolutional Neural Network (CNN)
 - Image Processing.
 
-**Online Ordering System (website)**
+**3. Online Ordering System (website)**
 - Write in HTML, CSS and PHP
 - Use XAMPP with MySQL for database.
 
