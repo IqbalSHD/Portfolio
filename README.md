@@ -47,6 +47,7 @@ I am a degree student(final semester) in Computer Science with a passion for lea
 
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ## Skill
+![skill](/github/skill.png)
 #### Programming : Java ║ Python ║ C++ ║ PHP ║ HTML & CSS ║ MySQL
 **Multimedia:**
 - Video Editing (Adobe Premiere Pro)
