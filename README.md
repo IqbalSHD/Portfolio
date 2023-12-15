@@ -6,9 +6,6 @@ I am a degree student(final semester) in Computer Science with a passion for lea
 #### Mobile ║ +6019-6356149
 #### Email ║ iqbal22shd@gmail.com
 
-#### Address: No.112 Kampung Pering, 06100 Kubang Pasu, Kedah.
-#### Mobile: +6019-6356149
-#### Email: iqbal22shd@gmail.com
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ## Education
 - Bachelor of Computer Science | Universiti Teknologi MARA, Kampus Cawangan Kuala Terengganu, Malaysia (_Feb 2021 – Currently_) - CGPA: 2.80
