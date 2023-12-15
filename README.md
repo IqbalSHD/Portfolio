@@ -29,6 +29,9 @@ I am a degree student(final semester) in Computer Science with a passion for lea
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ## Projects
 **Heart Disease Prediction Using Random Forest**
+
+github/rf.jpg
+
 - Write in Python
 - Using machine learning Random Forest algorithm
 - Using the K-Nearest Neighbors algorithm (KNN) - additional for analysis
