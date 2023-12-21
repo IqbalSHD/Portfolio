@@ -7,7 +7,7 @@ I am a degree student(final semester) in Computer Science with a passion for lea
           
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ## Work Experience
-**Internship Student At Pejabat Daerah & Tanah, Alor Setar, Kedah. (_Diploma - 2020_)**
+**1. Internship Student At Pejabat Daerah & Tanah, Alor Setar, Kedah. (_Diploma - 2020_)**
 - Build a system (Sistem Penyimpanan Barang) to store data about office items and assets.
 - Write in JAVA using NetBeans.
 - The system can/has:
@@ -16,11 +16,11 @@ I am a degree student(final semester) in Computer Science with a passion for lea
    - create, read, update, delete and search
 - Creating Posters and corporate video
 
-**Sales Promoter At Parkson Aman Central, Alor Setar, Kedah.**
+**2. Sales Promoter At Parkson Aman Central, Alor Setar, Kedah.**
 - Selling and promoting handbags.
 - Make weekly and monthly sales reports.
 
-**Other(_part-time_)**
+**3. Other(_part-time_)**
 - Supermarket LOTUS Penang
 - Cinema GSC Penang
 - Restaurant
