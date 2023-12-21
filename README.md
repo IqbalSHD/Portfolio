@@ -52,9 +52,9 @@ I am a degree student(final semester) in Computer Science with a passion for lea
 
 
 **Multimedia:**
-- Video Editing (Adobe Premiere Pro)
-- Photo Editing (Adobe Photoshop)
-- Designing GUI for web application
+- Video Editing (Adobe Premiere Pro).
+- Photo Editing (Adobe Photoshop).
+- Designing GUI for web application.
 
 **Language:**
 - Bahasa Malaysia (native)
