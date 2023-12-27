@@ -31,9 +31,10 @@ I am a degree student(final semester) in Computer Science with a passion for lea
 **1. Heart Disease Prediction Using Random Forest**
 ![gui random forest](/github/rf.jpg)
 - Write in Python
-- Using machine learning Random Forest algorithm
-- Using the K-Nearest Neighbors algorithm (KNN) - additional for analysis
-- Using Support Vector Classifier (SVC) - additional for analysis
+- Using machine learning Random Forest algorithm (without library)
+- Using the K-Nearest Neighbors algorithm (KNN library) - for additional analysis
+- Using Support Vector Classifier (SVC library) - for additional analysis
+- Using Streamlit for GUI
 
 **2. Animal Recognition Using CNN**
 ![animal recognition](/github/Screenshot 2023-01-24 104710.png)
@@ -65,10 +66,3 @@ I am a degree student(final semester) in Computer Science with a passion for lea
 #### Mobile ║ +6019-6356149
 #### Email ║ iqbal22shd@gmail.com
 
-
-
-
-
-
-
-[Data Science Blog](https://medium.com/@shawhin)
