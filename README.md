@@ -3,7 +3,7 @@ I am a degree student(final semester) in Computer Science with a passion for lea
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ## Education
 - Bachelor of Computer Science | Universiti Teknologi MARA, Kampus Cawangan Kuala Terengganu, Malaysia (_Oct 2021 – Currently_) - CGPA: 2.80
-- Diploma in Computer Science	| Universiti Teknologi MARA, Kampus Sunagi Petani Cawangan Kedah, Malaysia (_Jun 2018 – Aug 2021_)
+- Diploma in Computer Science	| Universiti Teknologi MARA, Kampus Sunagi Petani Cawangan Kedah, Malaysia (_Jun 2018 – Aug 2021_) 
           
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ## Work Experience
