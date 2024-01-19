@@ -20,10 +20,11 @@ I am a degree student(final semester) in Computer Science with a passion for lea
 - Selling and promoting handbags.
 - Make weekly and monthly sales reports.
 
-**3. Other(_part-time_)**
+**3. Part-time (2013 - 2023)**
+- Work every school holiday and semester break as part time.
 - Supermarket LOTUS Penang
 - Cinema GSC Penang
-- Restaurant
+- Various Restaurants
 - Factory
 
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
