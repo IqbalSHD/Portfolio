@@ -2,6 +2,7 @@
 As a Computer Science degree student with a strong passion for learning, I am actively seeking an internship placement to undergo industrial training and acquire valuable knowledge and skills from a dynamic company. I am a disciplined individual committed to fostering robust relationships with colleagues, and I excel both in team collaboration and independent work. Eager to apply my academic knowledge in a real-world setting, I look forward to contributing to and learning from a professional work environment.
 - Final Semester
 - Intership Duration 11 March to 14 June 2024 (3 months)
+
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ## Education
 - Bachelor of Computer Science | Universiti Teknologi MARA, Kampus Cawangan Kuala Terengganu, Malaysia (_Oct 2021 – Currently_) - CGPA: 2.80
