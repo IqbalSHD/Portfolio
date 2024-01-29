@@ -11,44 +11,38 @@ As a Computer Science degree student with a strong passion for learning, I am ac
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ## Work Experience
 **1. Internship Student At Pejabat Daerah & Tanah, Alor Setar, Kedah. (_Diploma - 2020_)**
-- Build a system (Sistem Penyimpanan Barang) to store data about office items and assets.
-- Write in JAVA using NetBeans.
-- The system can/has:
-   - login logout admin
-   - calculate the asset value by month and year
-   - create, read, update, delete and search
-- Creating Posters and corporate video
+- Developed a system (Sistem Penyimpanan Barang) for managing office items and assets using Java with NetBeans.
+- Implemented features such as login/logout for administrators, calculating asset values monthly and yearly
+- Performing CRUD operations (create, read, update, delete) along with search functionality.
+- Created posters and a corporate video.
 
 **2. Sales Promoter At Parkson Aman Central, Alor Setar, Kedah.**
-- Selling and promoting handbags.
-- Make weekly and monthly sales reports.
+- Promoted and sold handbags.
+- Prepared weekly and monthly sales reports.
 
 **3. Part-time (2013 - 2023)**
-- Work every school holiday and semester break as part time.
-- Supermarket LOTUS Penang
-- Cinema GSC Penang
-- Various Restaurants
-- Factory
+- Gained valuable part-time experience during school holidays and semester breaks.
+- Worked in various roles at LOTUS Penang (supermarket), GSC Penang (cinema), different restaurants, and a factory
 
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ## Projects
 **1. Heart Disease Prediction Using Random Forest**
 ![gui random forest](/github/rf.jpg)
-- Write in Python
-- Using machine learning Random Forest algorithm (without library)
-- Using the K-Nearest Neighbors algorithm (KNN library) - for additional analysis
-- Using Support Vector Classifier (SVC library) - for additional analysis
-- Using Streamlit for GUI
+- Developed in Python without external machine learning libraries.
+- Implemented the Random Forest algorithm.
+- Utilized the K-Nearest Neighbors (KNN) algorithm for additional analysis (using a library).
+- Employed the Support Vector Classifier (SVC) for additional analysis (using a library).
+- Integrated a Graphical User Interface (GUI) using Streamlit.
 
 **2. Animal Recognition Using CNN**
 ![animal recognition](/github/Screenshot 2023-01-24 104710.png)
-- Write in MATLAB
-- Using machine learning Convolutional Neural Network (CNN)
-- Image Processing.
+- Developed in MATLAB.
+- Implemented a Convolutional Neural Network (CNN) for machine learning.
+- Incorporated Image Processing techniques.
 
 **3. Online Ordering System (website)**
-- Write in HTML, CSS and PHP
-- Use XAMPP with MySQL for database.
+- Developed using HTML, CSS, and PHP.
+- Utilized XAMPP with MySQL for database management.
 
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ## Skill
@@ -59,7 +53,7 @@ As a Computer Science degree student with a strong passion for learning, I am ac
 **Multimedia:**
 - Video Editing (Adobe Premiere Pro).
 - Photo Editing (Adobe Photoshop).
-- Designing GUI for web application.
+- Canva
 
 **Language:**
 - Bahasa Malaysia (native)
