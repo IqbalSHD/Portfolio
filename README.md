@@ -60,7 +60,7 @@ As a Computer Science degree student with a strong passion for learning, I am ac
 - English (intermediate)
 
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-#### Address ║ No.112 Kampung Pering, 06100 Kubang Pasu, Kedah.
+#### Address ║ Taman Sri Gunung, Alor Setar, Kedah.
 #### Mobile ║ +6019-6356149
 #### Email ║ iqbal22shd@gmail.com
 
