@@ -63,9 +63,9 @@ As a Computer Science degree student with a strong passion for learning, I am ac
 - Simple GUI displayed a variety of food items for customers to browse and add to their cart.
 - Enabled customers to remove selected items from their cart.
 - Empowered the admin with the ability to:
- - View detailed order information.
- - Update and modify customer orders as needed.
- - Delete customer order details for administrative purposes.
+  - View detailed order information.
+  - Update and modify customer orders as needed.
+  - Delete customer order details for administrative purposes.
 
 **4. Bicycle Rental Online Website**
 - Created using NetBeans IDE.
