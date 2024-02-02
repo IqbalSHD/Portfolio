@@ -52,6 +52,9 @@ As a Computer Science degree student with a strong passion for learning, I am ac
 - Executed the program through the 'Scan' button, utilizing a Convolutional Neural Network (CNN) for predictions, and providing results by displaying the recognized animal class.
 
 **3. Online Ordering System (website)**
+![gui random forest](/github/rbs1.jpg)
+![gui random forest](/github/rbs2.png)
+![gui random forest](/github/rbs3.png)
 - Developed using HTML, CSS, and PHP.
 - Utilized Laragon as the local development environment, with MySQL for effective database management.
 
