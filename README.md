@@ -53,7 +53,13 @@ As a Computer Science degree student with a strong passion for learning, I am ac
 
 **3. Online Ordering System (website)**
 - Developed using HTML, CSS, and PHP.
-- Utilized XAMPP with MySQL for database management.
+- Utilized Laragon as the local development environment, with MySQL for effective database management.
+
+***Bicycle Rental Online Website***
+- Created using NetBeans IDE.
+- Implemented with JavaServer Pages (JSP).
+- Incorporated secure login and logout functionality.
+- Enabled the website to calculate rental costs in Malaysian Ringgit per hour.
 
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ## Skill
