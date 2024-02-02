@@ -14,6 +14,7 @@ As a Computer Science degree student with a strong passion for learning, I am ac
 - Developed a system (Sistem Penyimpanan Barang) for managing office items and assets using Java with NetBeans.
 - Implemented features such as login/logout for administrators, calculating asset values monthly and yearly
 - Performing CRUD operations (create, read, update, delete) along with search functionality.
+- Utilized XAMPP with MySQL for database management.
 - Created posters and a corporate video.
 
 **2. Sales Promoter At Parkson Aman Central, Alor Setar, Kedah.**
@@ -22,7 +23,11 @@ As a Computer Science degree student with a strong passion for learning, I am ac
 
 **3. Part-time (2013 - 2023)**
 - Gained valuable part-time experience during school holidays and semester breaks.
-- Worked in various roles at LOTUS Penang (supermarket), GSC Penang (cinema), different restaurants, and a factory
+- Worked in various roles at:
+   - LOTUS Penang (supermarket)
+   - GSC Penang (cinema)
+   - various restaurants
+   - factory
 
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ## Projects
@@ -32,13 +37,19 @@ As a Computer Science degree student with a strong passion for learning, I am ac
 - Implemented the Random Forest algorithm.
 - Utilized the K-Nearest Neighbors (KNN) algorithm for additional analysis (using a library).
 - Employed the Support Vector Classifier (SVC) for additional analysis (using a library).
-- Integrated a Graphical User Interface (GUI) using Streamlit.
+- Implemented a user-friendly Graphical User Interface (GUI) using Streamlit.
+- Allowing users to input 13 features from the patient's medical record.
+- Facilitated a straightforward process wherein users press the 'predict' button to execute the program.
+- Interpretation of results: A prediction of 'heart disease' indicates the presence of the condition, while a result of 'no heart disease' signifies the patient's overall health without any heart-related concerns.
 
 **2. Animal Recognition Using CNN**
 ![animal recognition](/github/Screenshot 2023-01-24 104710.png)
 - Developed in MATLAB.
 - Implemented a Convolutional Neural Network (CNN) for machine learning.
 - Incorporated Image Processing techniques.
+- Enabled user interaction by implementing a simple interface where users can select animal pictures using the 'browse' button.
+- The selected image is displayed on the program interface
+- Executed the program through the 'Scan' button, utilizing a Convolutional Neural Network (CNN) for predictions, and providing results by displaying the recognized animal class.
 
 **3. Online Ordering System (website)**
 - Developed using HTML, CSS, and PHP.
