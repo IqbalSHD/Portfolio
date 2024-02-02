@@ -56,9 +56,18 @@ As a Computer Science degree student with a strong passion for learning, I am ac
 ![gui random forest](/github/rbs2.png)
 ![gui random forest](/github/rbs3.png)
 - Developed using HTML, CSS, and PHP.
-- Utilized Laragon as the local development environment, with MySQL for effective database management.
+- Leveraged Laragon as the local development environment.
+- Utilized MySQL for robust and efficient database management.
+- Implemented user registration allowing customers to sign up.
+- Customers can log in to their accounts to place orders.
+- Simple GUI displayed a variety of food items for customers to browse and add to their cart.
+- Enabled customers to remove selected items from their cart.
+- Empowered the admin with the ability to:
+ - View detailed order information.
+ - Update and modify customer orders as needed.
+ - Delete customer order details for administrative purposes.
 
-***Bicycle Rental Online Website***
+**4. Bicycle Rental Online Website**
 - Created using NetBeans IDE.
 - Implemented with JavaServer Pages (JSP).
 - Incorporated secure login and logout functionality.
