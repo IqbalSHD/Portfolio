@@ -73,6 +73,10 @@ As a Computer Science degree student with a strong passion for learning, I am ac
 - Incorporated secure login and logout functionality.
 - Enabled the website to calculate rental costs in Malaysian Ringgit per hour.
 
+**5. Mini Project**
+- CRUD Operations with C#
+- This mini project showcases the implementation of CRUD (Create, Read, Update, Delete) operations using C# within the Visual Studio development environment.
+- The project utilizes SQL Server Management Studio (SSMS) as the database management system.
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ## Skill
 #### Programming : Java ║ Python ║ C++ ║ PHP ║ HTML & CSS ║ MySQL
