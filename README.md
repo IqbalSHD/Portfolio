@@ -1,7 +1,5 @@
 # BACHELOR OF COMPUTER SCIENCE
-As a Computer Science degree student with a strong passion for learning, I am actively seeking an internship placement to undergo industrial training and acquire valuable knowledge and skills from a dynamic company. I am a disciplined individual committed to fostering robust relationships with colleagues, and I excel both in team collaboration and independent work. Eager to apply my academic knowledge in a real-world setting, I look forward to contributing to and learning from a professional work environment.
-- Final Semester
-- Intership Duration 11 March to 14 June 2024 (3 months)
+As a recent graduate in Computer Science, I am eager to transition into a professional role where I can apply and further develop my knowledge and skills. With a focus on continuous learning and a commitment to hard work, I am excited about the opportunity to contribute to a dynamic company. Throughout my academic journey, I have gained a solid understanding of computer science principles and have demonstrated my ability to adapt and learn in various situations. I approach work with dedication and strive to collaborate effectively with colleagues to achieve common goals. I am looking forward to the chance to contribute positively to a team and grow both personally and professionally within an organization.
 
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ## Education
