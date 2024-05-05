@@ -80,7 +80,7 @@ As a Computer Science degree student with a strong passion for learning, I am ac
 
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ## Skill
-#### Programming : Java ║ Python ║ C++ ║ PHP ║ HTML & CSS ║ MySQL
+#### Programming : Java ║ Python ║ C++ ║ C# ║ PHP ║ HTML & CSS ║ MySQL ║ SSMS
 ![skill](/github/skill.png)
 
 
