@@ -3,7 +3,7 @@ As a recent graduate in Computer Science, I am eager to transition into a profes
 
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ## Education
-- Bachelor of Computer Science | Universiti Teknologi MARA, Kampus Cawangan Kuala Terengganu, Malaysia (_Oct 2021 – Currently_) - CGPA: 2.80
+- Bachelor of Computer Science | Universiti Teknologi MARA, Kampus Cawangan Kuala Terengganu, Malaysia (_Oct 2021 – Jun 2024_) - CGPA: 2.80
 - Diploma in Computer Science	| Universiti Teknologi MARA, Kampus Sunagi Petani Cawangan Kedah, Malaysia (_Jun 2018 – Aug 2021_) 
           
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
