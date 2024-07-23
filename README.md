@@ -8,18 +8,23 @@ As a recent graduate in Computer Science, I am eager to transition into a profes
           
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ## Work Experience
-**1. Internship Student At Pejabat Daerah & Tanah, Alor Setar, Kedah. (_Diploma - 2020_)**
+**1. Internship Student At Kulim Technology Park Corporation SDN BHD, Kulim, Kedah. (_Degree - 2024_)**
+- Developed a WordPress website for Kulim Golf & Country Resort.
+- Updated e-procurement website to a new .NET version.
+
+
+**2. Internship Student At Pejabat Daerah & Tanah, Alor Setar, Kedah. (_Diploma - 2020_)**
 - Developed a system (Sistem Penyimpanan Barang) for managing office items and assets using Java with NetBeans.
 - Implemented features such as login/logout for administrators, calculating asset values monthly and yearly
 - Performing CRUD operations (create, read, update, delete) along with search functionality.
 - Utilized XAMPP with MySQL for database management.
 - Created posters and a corporate video.
 
-**2. Sales Promoter At Parkson Aman Central, Alor Setar, Kedah.**
+**3. Sales Promoter At Parkson Aman Central, Alor Setar, Kedah.**
 - Promoted and sold handbags.
 - Prepared weekly and monthly sales reports.
 
-**3. Part-time (2013 - 2023)**
+**4. Part-time (2013 - 2023)**
 - Gained valuable part-time experience during school holidays and semester breaks.
 - Worked in various roles at:
    - LOTUS Penang (supermarket)
@@ -82,6 +87,12 @@ As a recent graduate in Computer Science, I am eager to transition into a profes
 #### Programming : Java ║ Python ║ C++ ║ C# ║ PHP ║ HTML & CSS ║ MySQL ║ SSMS
 ![skill](/github/skill.png)
 
+Programming Languages: Python, Java, C++, C#, PHP, SQL, HTML, CSS, MATLAB
+Web Development: WordPress, Web Development
+Software Development: Visual Studio, Visual Studio Code, Laragon, SSMS (SQL Server Management Studio)
+Design and Multimedia: Adobe Premiere Pro, Adobe Photoshop, Canva, CutCap
+Machine Learning
+Language: Bahasa Malaysia (native), English (intermediate)
 
 **Multimedia:**
 - Video Editing (Adobe Premiere Pro).
