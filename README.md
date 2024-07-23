@@ -89,19 +89,10 @@ As a recent graduate in Computer Science, I am eager to transition into a profes
 
 - **Programming Languages:** Python, Java, C++, C#, PHP, SQL, HTML, CSS, MATLAB
 - **Web Development:** WordPress, Web Development
-**Software Development:** Visual Studio, Visual Studio Code, Laragon, SSMS (SQL Server Management Studio)
-**Design and Multimedia:** Adobe Premiere Pro, Adobe Photoshop, Canva, CutCap
-**Machine Learning**
-**Language:** Bahasa Malaysia (native), English (intermediate)
-
-**Multimedia:**
-- Video Editing (Adobe Premiere Pro).
-- Photo Editing (Adobe Photoshop).
-- Canva
-
-**Language:**
-- Bahasa Malaysia (native)
-- English (intermediate)
+- **Software Development:** Visual Studio, Visual Studio Code, Laragon, SSMS (SQL Server Management Studio)
+- **Design and Multimedia:** Adobe Premiere Pro, Adobe Photoshop, Canva, CutCap
+- **Machine Learning**
+- **Language:** Bahasa Malaysia (native), English (intermediate)
 
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 #### Address ║ Taman Sri Gunung, Alor Setar, Kedah.
@@ -109,5 +100,5 @@ As a recent graduate in Computer Science, I am eager to transition into a profes
 #### Email ║ iqbal22shd@gmail.com
 
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="iqbal-suhaidin-560a452a8" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://my.linkedin.com/in/iqbal-suhaidin-560a452a8?trk=profile-badge">Iqbal Suhaidin</a></div>
+**LinkedIn: **<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="iqbal-suhaidin-560a452a8" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://my.linkedin.com/in/iqbal-suhaidin-560a452a8?trk=profile-badge">Iqbal Suhaidin</a></div>
               
