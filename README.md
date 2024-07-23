@@ -99,6 +99,6 @@ As a recent graduate in Computer Science, I am eager to transition into a profes
 #### Email ║ iqbal22shd@gmail.com
 
 
-**LinkedIn: **
+**LinkedIn:**
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="iqbal-suhaidin-560a452a8" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://my.linkedin.com/in/iqbal-suhaidin-560a452a8?trk=profile-badge">Iqbal Suhaidin</a></div>
               
