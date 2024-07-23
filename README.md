@@ -87,8 +87,8 @@ As a recent graduate in Computer Science, I am eager to transition into a profes
 #### Programming : Java ║ Python ║ C++ ║ C# ║ PHP ║ HTML & CSS ║ MySQL ║ SSMS
 ![skill](/github/skill.png)
 
-**Programming Languages:** Python, Java, C++, C#, PHP, SQL, HTML, CSS, MATLAB
-**Web Development:** WordPress, Web Development
+- **Programming Languages:** Python, Java, C++, C#, PHP, SQL, HTML, CSS, MATLAB
+- **Web Development:** WordPress, Web Development
 **Software Development:** Visual Studio, Visual Studio Code, Laragon, SSMS (SQL Server Management Studio)
 **Design and Multimedia:** Adobe Premiere Pro, Adobe Photoshop, Canva, CutCap
 **Machine Learning**
