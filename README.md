@@ -84,7 +84,6 @@ As a recent graduate in Computer Science, I am eager to transition into a profes
 
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ## Skill
-#### Programming : Java ║ Python ║ C++ ║ C# ║ PHP ║ HTML & CSS ║ MySQL ║ SSMS
 ![skill](/github/skill.png)
 
 - **Programming Languages:** Python, Java, C++, C#, PHP, SQL, HTML, CSS, MATLAB
@@ -100,5 +99,6 @@ As a recent graduate in Computer Science, I am eager to transition into a profes
 #### Email ║ iqbal22shd@gmail.com
 
 
-**LinkedIn: **<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="iqbal-suhaidin-560a452a8" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://my.linkedin.com/in/iqbal-suhaidin-560a452a8?trk=profile-badge">Iqbal Suhaidin</a></div>
+**LinkedIn: **
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="iqbal-suhaidin-560a452a8" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://my.linkedin.com/in/iqbal-suhaidin-560a452a8?trk=profile-badge">Iqbal Suhaidin</a></div>
               
