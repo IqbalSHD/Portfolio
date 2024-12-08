@@ -9,26 +9,26 @@ I look forward to the chance to contribute positively to a team and grow persona
           
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ## Work Experience
-**1. Web Designer and Postmaster Admin At Ministry of Health headquarters, Presint 1, Putrajayabn8. (_SEP 2024 – Currently_)**
+**1. Web Designer and Postmaster Admin At Ministry of Health headquarters, Presint 1, Putrajaya. (_SEP 2024 – Currently_)**
 - Designed and developed several new website layouts to replace outdated designs, ensuring modern functionality and user experience.
 - Managed and maintained the Postmaster system, blasting critical emails to government entities, agencies, and institutions.
 
-**1. Internship Student(Degree) At Kulim Technology Park Corporation SDN BHD, Kulim, Kedah. (_MAR 2024 – JUN 2024_)**
+**2. Internship Student(Degree) At Kulim Technology Park Corporation SDN BHD, Kulim, Kedah. (_MAR 2024 – JUN 2024_)**
 - Developed a WordPress website for Kulim Golf & Country Resort.
 - Updated the e-procurement website to a new .NET version.
 
-**2. Internship Student(Diploma) At Pejabat Daerah & Tanah, Alor Setar, Kedah. (_OCT 2020 – DEC 2024_)**
+**3. Internship Student(Diploma) At Pejabat Daerah & Tanah, Alor Setar, Kedah. (_OCT 2020 – DEC 2020_)**
 - Developed a system (Sistem Penyimpanan Barang) for managing office items and assets using Java with NetBeans.
 - Implemented features such as login/logout for administrators, calculating asset values monthly and yearly
 - Performing CRUD operations (create, read, update, delete) and search functionality.
 - Utilized XAMPP with MySQL for database management.
 - Created posters and a corporate video.
 
-**3. Sales Promoter At Parkson Aman Central, Alor Setar, Kedah.**
+**4. Sales Promoter At Parkson Aman Central, Alor Setar, Kedah.**
 - Promoted and sold handbags.
 - Prepared weekly and monthly sales reports.
 
-**4. Part-time (2013 - 2023)**
+**5. Part-time (2013 - 2023)**
 - Gained valuable part-time experience during school holidays and semester breaks.
 - Worked in various roles at:
    - LOTUS Penang (hypermarket)
