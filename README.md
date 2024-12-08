@@ -42,9 +42,8 @@ I look forward to the chance to contribute positively to a team and grow persona
 ![skill](/github/skill.png)
 
 - **Programming Languages:** Python, Java, C++, C#, PHP, SQL, HTML, CSS
-- **Software Development:** Visual Studio, Visual Studio Code, Laragon, SSMS (SQL Server Management Studio)
-- **Web Development** 
-- **Machine Learning**
+- **Tools & Software:** Visual Studio, Visual Studio Code, Laragon, SSMS (SQL Server Management Studio), GitHub
+- **Machine Learning:** Random Forest, Decision Tree, KNN, SVC
 - **Design and Multimedia:** Adobe Premiere Pro, Adobe Photoshop, Canva, CutCap, WordPress, Wix Studio
 
 - **Language:** Bahasa Malaysia (native), English (intermediate)
@@ -53,7 +52,7 @@ I look forward to the chance to contribute positively to a team and grow persona
 ## Projects
 **1. Heart Disease Prediction Using Random Forest**
 ![gui random forest](/github/rf.jpg)
-- Developed in Python without external machine learning libraries.
+- Developed in Python without external machine-learning libraries.
 - Implemented the Random Forest algorithm.
 - Utilized the K-Nearest Neighbors (KNN) algorithm for additional analysis (using a library).
 - Employed the Support Vector Classifier (SVC) for additional analysis (using a library).
@@ -104,6 +103,7 @@ I look forward to the chance to contribute positively to a team and grow persona
 #### Address ║ Seri Kembangan 43300, Selangor.
 #### Mobile ║ +6019-6356149
 #### Email ║ iqbal22shd@gmail.com
+#### License ║ Motorcycle and car
 
 
 **LinkedIn:** <a class="badge-base__link LI-simple-link" href="https://my.linkedin.com/in/iqbal-suhaidin-560a452a8?trk=profile-badge">Iqbal Suhaidin</a>
