@@ -97,19 +97,15 @@ I look forward to the chance to contribute positively to a team and grow persona
 - CRUD Operations with C#
 - This mini project showcases the implementation of CRUD (Create, Read, Update, Delete) operations using C# within the Visual Studio development environment.
 - The project utilizes SQL Server Management Studio (SSMS) as the database management system.
-- 
 
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 #### Address ║ Seri Kembangan 43300, Selangor.
 #### Mobile ║ +6019-6356149
 #### Email ║ iqbal22shd@gmail.com
 #### License ║ Motorcycle and car
+**LinkedIn:** <a class="badge-base__link LI-simple-link" href="https://my.linkedin.com/in/iqbal-suhaidin-560a452a8?trk=profile-badge">Iqbal Suhaidin</a>
 
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ## Award
 **1. Heart Disease Prediction Using Random Forest**
-![gui random forest](/github/award silver.jpg)
-
-
-**LinkedIn:** <a class="badge-base__link LI-simple-link" href="https://my.linkedin.com/in/iqbal-suhaidin-560a452a8?trk=profile-badge">Iqbal Suhaidin</a>
-              
+![gui random forest](/github/award silver.jpg)              
