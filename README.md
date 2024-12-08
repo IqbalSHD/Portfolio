@@ -1,5 +1,6 @@
 # BACHELOR OF COMPUTER SCIENCE
-As a recent graduate in Computer Science, I am eager to transition into a professional role where I can apply and further develop my knowledge and skills. With a focus on continuous learning and a commitment to hard work, I am excited about the opportunity to contribute to a dynamic company. Throughout my academic journey, I have gained a solid understanding of computer science principles and have demonstrated my ability to adapt and learn in various situations. I approach work with dedication and strive to collaborate effectively with colleagues to achieve common goals. I am looking forward to the chance to contribute positively to a team and grow both personally and professionally within an organization.
+As a recent graduate in Computer Science, I am eager to transition into a professional role where I can apply and further develop my knowledge and skills. With a focus on continuous learning and a commitment to hard work, I am excited about the opportunity to contribute to a dynamic company. Throughout my academic journey, I have gained a solid understanding of computer science principles and have demonstrated my ability to adapt and learn in various situations. I approach work with dedication and strive to collaborate effectively with colleagues to achieve common goals.
+I look forward to the chance to contribute positively to a team and grow personally and professionally within an organization.
 
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ## Education
@@ -8,15 +9,18 @@ As a recent graduate in Computer Science, I am eager to transition into a profes
           
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ## Work Experience
-**1. Internship Student At Kulim Technology Park Corporation SDN BHD, Kulim, Kedah. (_Degree - 2024_)**
+**1. Web Designer and Postmaster Admin At Ministry of Health headquarters, Presint 1, Putrajayabn8. (_SEP 2024 – Currently_)**
+- Designed and developed several new website layouts to replace outdated designs, ensuring modern functionality and user experience.
+- Managed and maintained the Postmaster system, blasting critical emails to government entities, agencies, and institutions.
+
+**1. Internship Student(Degree) At Kulim Technology Park Corporation SDN BHD, Kulim, Kedah. (_MAR 2024 – JUN 2024_)**
 - Developed a WordPress website for Kulim Golf & Country Resort.
-- Updated e-procurement website to a new .NET version.
+- Updated the e-procurement website to a new .NET version.
 
-
-**2. Internship Student At Pejabat Daerah & Tanah, Alor Setar, Kedah. (_Diploma - 2020_)**
+**2. Internship Student(Diploma) At Pejabat Daerah & Tanah, Alor Setar, Kedah. (_OCT 2020 – DEC 2024_)**
 - Developed a system (Sistem Penyimpanan Barang) for managing office items and assets using Java with NetBeans.
 - Implemented features such as login/logout for administrators, calculating asset values monthly and yearly
-- Performing CRUD operations (create, read, update, delete) along with search functionality.
+- Performing CRUD operations (create, read, update, delete) and search functionality.
 - Utilized XAMPP with MySQL for database management.
 - Created posters and a corporate video.
 
@@ -27,10 +31,22 @@ As a recent graduate in Computer Science, I am eager to transition into a profes
 **4. Part-time (2013 - 2023)**
 - Gained valuable part-time experience during school holidays and semester breaks.
 - Worked in various roles at:
-   - LOTUS Penang (supermarket)
+   - LOTUS Penang (hypermarket)
    - GSC Penang (cinema)
    - various restaurants
    - factory
+
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+## Skill
+![skill](/github/skill.png)
+
+- **Programming Languages:** Python, Java, C++, C#, PHP, SQL, HTML, CSS
+- **Software Development:** Visual Studio, Visual Studio Code, Laragon, SSMS (SQL Server Management Studio)
+- **Web Development** 
+- **Machine Learning**
+- **Design and Multimedia:** Adobe Premiere Pro, Adobe Photoshop, Canva, CutCap, WordPress, Wix Studio
+
+- **Language:** Bahasa Malaysia (native), English (intermediate)
 
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ## Projects
@@ -81,20 +97,10 @@ As a recent graduate in Computer Science, I am eager to transition into a profes
 - CRUD Operations with C#
 - This mini project showcases the implementation of CRUD (Create, Read, Update, Delete) operations using C# within the Visual Studio development environment.
 - The project utilizes SQL Server Management Studio (SSMS) as the database management system.
+- 
 
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-## Skill
-![skill](/github/skill.png)
-
-- **Programming Languages:** Python, Java, C++, C#, PHP, SQL, HTML, CSS, MATLAB
-- **Web Development:** WordPress, Web Development
-- **Software Development:** Visual Studio, Visual Studio Code, Laragon, SSMS (SQL Server Management Studio)
-- **Design and Multimedia:** Adobe Premiere Pro, Adobe Photoshop, Canva, CutCap
-- **Machine Learning**
-- **Language:** Bahasa Malaysia (native), English (intermediate)
-
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-#### Address ║ Taman Sri Gunung, Alor Setar, Kedah.
+#### Address ║ Seri Kembangan 43300, Selangor.
 #### Mobile ║ +6019-6356149
 #### Email ║ iqbal22shd@gmail.com
 
