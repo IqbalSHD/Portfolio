@@ -15,6 +15,7 @@ I look forward to the chance to contribute positively to a team and grow persona
 
 **2. Internship Student(Degree) At Kulim Technology Park Corporation SDN BHD, Kulim, Kedah. (_MAR 2024 – JUN 2024_)**
 - Developed a WordPress website for Kulim Golf & Country Resort.
+- https://www2.kulimgolf.com.my/
 - Updated the e-procurement website to a new .NET version.
 
 **3. Internship Student(Diploma) At Pejabat Daerah & Tanah, Alor Setar, Kedah. (_OCT 2020 – DEC 2020_)**
