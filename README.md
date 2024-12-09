@@ -1,6 +1,6 @@
 # BACHELOR OF COMPUTER SCIENCE
 As a recent graduate in Computer Science, I am eager to transition into a professional role where I can apply and further develop my knowledge and skills. With a focus on continuous learning and a commitment to hard work, I am excited about the opportunity to contribute to a dynamic company. Throughout my academic journey, I have gained a solid understanding of computer science principles and have demonstrated my ability to adapt and learn in various situations. I approach work with dedication and strive to collaborate effectively with colleagues to achieve common goals.
-I look forward to the chance to contribute positively to a team and grow personally and professionally within an organization.
+I look forward to contributing positively to a team and growing personally and professionally within an organization.
 
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ## Education
@@ -16,7 +16,12 @@ I look forward to the chance to contribute positively to a team and grow persona
 **2. Internship Student(Degree) At Kulim Technology Park Corporation SDN BHD, Kulim, Kedah. (_MAR 2024 – JUN 2024_)**
 - Developed a WordPress website for Kulim Golf & Country Resort.
 - Website: <a class="badge-base__link LI-simple-link" href="https://www2.kulimgolf.com.my/"> https://www2.kulimgolf.com.my/</a>
-- Updated the e-procurement website to a new .NET version.
+- Updated the e-procurement website to a new C# .NET version.
+- IT support: Managed setup, reset, and formatting tasks for company notebooks.
+- Event Participation
+          - Exhibitor at KIDEC 2024: Explained KDC functions, demonstrated 3D printing, and conducted mini drone tutorials.
+          - Facilitated STEM4FUN: Introduced primary students to coding and Microsoft MakeCode.
+          - Assisted in Peneraju Tunas BRIDGE Bestari: Set up equipment, managed the program, and documented activities.
 
 **3. Internship Student(Diploma) At Pejabat Daerah & Tanah, Alor Setar, Kedah. (_OCT 2020 – DEC 2020_)**
 - Developed a system (Sistem Penyimpanan Barang) for managing office items and assets using Java with NetBeans.
