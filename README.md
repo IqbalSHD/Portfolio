@@ -47,7 +47,7 @@ I look forward to contributing positively to a team and growing personally and p
 ![skill](/github/skill.png)
 
 - **Programming Languages:** Python, Java, C++, C#, PHP, SQL, HTML, CSS
-- **Tools & Software:** Visual Studio, Visual Studio Code, Laragon, SSMS (SQL Server Management Studio), GitHub
+- **Tools & Software:** Visual Studio, VS Code, Laragon, XAMPP, SSMS (SQL Server Management Studio), GitHub
 - **Machine Learning:** Random Forest, Decision Tree, KNN, SVC
 - **Design and Multimedia:** Adobe Premiere Pro, Adobe Photoshop, Canva, CutCap, WordPress, Wix Studio
 
