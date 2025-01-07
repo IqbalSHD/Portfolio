@@ -51,7 +51,7 @@ I look forward to contributing positively to a team and growing personally and p
 - **Machine Learning:** Random Forest, Decision Tree, KNN, SVC
 - **Design and Multimedia:** Adobe Premiere Pro, Adobe Photoshop, Canva, CutCap, WordPress, Wix Studio
 
-- **Language:** Bahasa Malaysia (native), English (intermediate)
+- **Language:** Bahasa Melayu, English
 
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ## Projects
