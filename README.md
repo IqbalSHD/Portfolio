@@ -9,7 +9,7 @@ I look forward to contributing positively to a team and growing personally and p
           
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ## Work Experience
-**1. Web Designer and Postmaster Admin At Ministry of Health headquarters, Presint 1, Putrajaya. (_SEP 2024 – Currently_)**
+**1. Web Designer and Postmaster Admin At Ministry of Health headquarters, Presint 1, Putrajaya. (_SEP 2024 – DEC 2024_)**
 - Designed and developed several new website layouts to replace outdated designs, ensuring modern functionality and user experience.
 - Managed and maintained the Postmaster system, blasting critical emails to government entities, agencies, and institutions.
 
