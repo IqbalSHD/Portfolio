@@ -108,7 +108,6 @@ I look forward to contributing positively to a team and growing personally and p
 #### Mobile ║ +6019-6356149
 #### Email ║ iqbal22shd@gmail.com
 #### License ║ Motorcycle and car
-**LinkedIn:** <a class="badge-base__link LI-simple-link" href="https://my.linkedin.com/in/iqbal-suhaidin-560a452a8?trk=profile-badge">Iqbal Suhaidin</a>
 
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ## Award
