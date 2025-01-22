@@ -91,11 +91,13 @@ I look forward to contributing positively to a team and growing personally and p
   - Update and modify customer orders as needed.
   - Delete customer order details for administrative purposes.
 
-**4. Bicycle Rental Online Website**
-- Created using NetBeans IDE.
-- Implemented with JavaServer Pages (JSP).
-- Incorporated secure login and logout functionality.
-- Enabled the website to calculate rental costs in Malaysian Ringgit per hour.
+**4. Loan Prediction**
+- Data Preprocessing and Cleaning:
+  - Removed irrelevant features, Encoded categorical variables into numerical formats & Standardized features by removing unnecessary symbols
+- Exploratory Data Analysis:
+  - Conducted correlation analysis using heatmaps & Filtered out low-impact features.
+- Sampling and Balancing:
+  - Addressed class imbalance by downsampling the majority class & Prepared separate datasets for training, testing, and evaluation.
 
 **5. Mini Project**
 ![gui random forest](/github/c crud.png)
