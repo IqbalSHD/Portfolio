@@ -92,6 +92,7 @@ I look forward to contributing positively to a team and growing personally and p
   - Delete customer order details for administrative purposes.
 
 **4. Loan Prediction**
+![loan prediction](/github/loan prediction.png)
 - Data Preprocessing and Cleaning:
   - Removed irrelevant features, Encoded categorical variables into numerical formats & Standardized features by removing unnecessary symbols
 - Exploratory Data Analysis:
