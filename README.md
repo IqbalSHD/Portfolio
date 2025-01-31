@@ -13,7 +13,7 @@ I look forward to contributing positively to a team and growing personally and p
 - Designed and developed several new website layouts to replace outdated designs, ensuring modern functionality and user experience.
 - Managed and maintained the Postmaster system, blasting critical emails to government entities, agencies, and institutions.
 
-**2. Internship Student(Degree) At Kulim Technology Park Corporation SDN BHD, Kulim, Kedah. (_MAR 2024 – JUN 2024_)**
+**2. Internship IT Support At Kulim Technology Park Corporation SDN BHD, Kulim, Kedah. (_MAR 2024 – JUN 2024_)**
 - Developed a WordPress website for Kulim Golf & Country Resort.
 - Website: <a class="badge-base__link LI-simple-link" href="https://www2.kulimgolf.com.my/"> https://www2.kulimgolf.com.my/</a>
 - Updated the e-procurement website to a new C# .NET version.
