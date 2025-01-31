@@ -93,6 +93,8 @@ I look forward to contributing positively to a team and growing personally and p
 
 **4. Loan Prediction**
 ![loan prediction](/github/loan prediction.png)
+- Successfully developed a loan repayment prediction system.
+- The system, GUI, and data processing were built using Python.
 - Data Preprocessing and Cleaning:
   - Removed irrelevant features, Encoded categorical variables into numerical formats & Standardized features by removing unnecessary symbols
 - Exploratory Data Analysis:
