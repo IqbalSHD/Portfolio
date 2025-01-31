@@ -104,8 +104,8 @@ I look forward to contributing positively to a team and growing personally and p
 
 **5. Mini Project**
 ![gui random forest](/github/c crud.png)
-- CRUD Operations with C#
-- This mini project showcases the implementation of CRUD (Create, Read, Update, Delete) operations using C# within the Visual Studio development environment.
+- Developed a client management system using C# in Visual Studio.
+- This mini project showcases the implementation of CRUD (Create, Read, Update, Delete) operations.
 - The project utilizes SQL Server Management Studio (SSMS) as the database management system.
 
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
