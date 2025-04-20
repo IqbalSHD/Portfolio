@@ -13,11 +13,11 @@ I look forward to contributing positively to a team and growing personally and p
 **1. Backend IT Department At Pintas Utama SDN BHD. (_FEb 2025 – Present_)**
 - Designed and developed a custom Property Management System, a web-based application hosted on cPanel with phpMyAdmin for database management.
 - Built features to add and manage property records containing 20+ key attributes including name, address, sale & purchase dates, loan details, and financial institutions.
-  - Implemented modules for uploading and managing unlimited images and documents per property.
+- Implemented modules for uploading and managing unlimited images and documents per property.
 - Created a user-friendly dashboard with tabbed views to organize property data:
- - Tab 1: Property information (20+ variables)
- - Tab 2: Property images
- - Tab 3: Property documents
+  - Tab 1: Property information (20+ variables)
+  - Tab 2: Property images
+  - Tab 3: Property documents
   - Developed data editing capabilities to update property information and manage associated files (edit variables, delete/replace images and documents).
 - Integrated an "Expiration Monitoring" page to flag properties nearing or past their rental end dates.
 - Automated email notifications to alert property owners when their units are approaching expiration.
