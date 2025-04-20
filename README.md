@@ -1,6 +1,5 @@
 # BACHELOR OF COMPUTER SCIENCE
-As a recent graduate in Computer Science, I am eager to transition into a professional role where I can apply and further develop my knowledge and skills. With a focus on continuous learning and a commitment to hard work, I am excited about the opportunity to contribute to a dynamic company. Throughout my academic journey, I have gained a solid understanding of computer science principles and have demonstrated my ability to adapt and learn in various situations. I approach work with dedication and strive to collaborate effectively with colleagues to achieve common goals.
-I look forward to contributing positively to a team and growing personally and professionally within an organization.
+Computer Science graduate passionate about backend and full-stack development, with proven hands-on experience in building web applications. Skilled in backend development, database management, web design, and machine learning applications. Experienced in delivering real-world projects using PHP, MySQL, Python, C#, and modern web technologies. Strong problem-solving and collaborative skills with a focus on scalable, maintainable solutions..
 
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ## Education
