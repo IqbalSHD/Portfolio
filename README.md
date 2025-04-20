@@ -42,10 +42,6 @@ I look forward to contributing positively to a team and growing personally and p
 - Utilized XAMPP with MySQL for database management.
 - Created posters and a corporate video.
 
-**5. Sales Promoter At Parkson Aman Central, Alor Setar, Kedah.**
-- Promoted and sold handbags.
-- Prepared weekly and monthly sales reports.
-
 
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ## Skill
@@ -54,7 +50,6 @@ I look forward to contributing positively to a team and growing personally and p
 - **Programming Languages:** Python, Java, C++, C#, PHP, SQL, HTML, CSS
 - **Tools & Software:** Visual Studio, VS Code, Laragon, XAMPP, SSMS (SQL Server Management Studio), GitHub
 - **Machine Learning:** Random Forest, Decision Tree, KNN, SVC
-- **Design and Multimedia:** Adobe Premiere Pro, Adobe Photoshop, Canva, CutCap, WordPress, Wix Studio
 
 - **Language:** Bahasa Melayu, English
 
