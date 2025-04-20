@@ -9,11 +9,24 @@ I look forward to contributing positively to a team and growing personally and p
           
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ## Work Experience
-**1. Web Designer and Postmaster Admin At Ministry of Health headquarters, Presint 1, Putrajaya. (_SEP 2024 – DEC 2024_)**
+
+**1. Backend IT Department At Pintas Utama SDN BHD. (_FEb 2025 – Present_)**
+- Designed and developed a custom Property Management System, a web-based application hosted on cPanel with phpMyAdmin for database management.
+- Built features to add and manage property records containing 20+ key attributes including name, address, sale & purchase dates, loan details, and financial institutions.
+  - Implemented modules for uploading and managing unlimited images and documents per property.
+- Created a user-friendly dashboard with tabbed views to organize property data:
+ - Tab 1: Property information (20+ variables)
+ - Tab 2: Property images
+ - Tab 3: Property documents
+  - Developed data editing capabilities to update property information and manage associated files (edit variables, delete/replace images and documents).
+- Integrated an "Expiration Monitoring" page to flag properties nearing or past their rental end dates.
+- Automated email notifications to alert property owners when their units are approaching expiration.
+
+**2. Web Designer and Postmaster Admin At Ministry of Health headquarters, Presint 1, Putrajaya. (_SEP 2024 – DEC 2024_)**
 - Designed and developed several new website layouts to replace outdated designs, ensuring modern functionality and user experience.
 - Managed and maintained the Postmaster system, blasting critical emails to government entities, agencies, and institutions.
 
-**2. Internship IT Support At Kulim Technology Park Corporation SDN BHD, Kulim, Kedah. (_MAR 2024 – JUN 2024_)**
+**3. Internship IT Support At Kulim Technology Park Corporation SDN BHD, Kulim, Kedah. (_MAR 2024 – JUN 2024_)**
 - Developed a WordPress website for Kulim Golf & Country Resort.
 - Website: <a class="badge-base__link LI-simple-link" href="https://www2.kulimgolf.com.my/"> https://www2.kulimgolf.com.my/</a>
 - Updated the e-procurement website to a new C# .NET version.
@@ -23,24 +36,17 @@ I look forward to contributing positively to a team and growing personally and p
   - Facilitated STEM4FUN: Introduced primary students to coding and Microsoft MakeCode.
   - Assisted in Peneraju Tunas BRIDGE Bestari: Set up equipment, managed the program, and documented activities.
 
-**3. Internship Student(Diploma) At Pejabat Daerah & Tanah, Alor Setar, Kedah. (_OCT 2020 – DEC 2020_)**
+**4. Internship Student(Diploma) At Pejabat Daerah & Tanah, Alor Setar, Kedah. (_OCT 2020 – DEC 2020_)**
 - Developed a system (Sistem Penyimpanan Barang) for managing office items and assets using Java with NetBeans.
 - Implemented features such as login/logout for administrators, calculating asset values monthly and yearly
 - Performing CRUD operations (create, read, update, delete) and search functionality.
 - Utilized XAMPP with MySQL for database management.
 - Created posters and a corporate video.
 
-**4. Sales Promoter At Parkson Aman Central, Alor Setar, Kedah.**
+**5. Sales Promoter At Parkson Aman Central, Alor Setar, Kedah.**
 - Promoted and sold handbags.
 - Prepared weekly and monthly sales reports.
 
-**5. Part-time (2013 - 2023)**
-- Gained valuable part-time experience during school holidays and semester breaks.
-- Worked in various roles at:
-   - LOTUS Penang (hypermarket)
-   - GSC Penang (cinema)
-   - various restaurants
-   - factory
 
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ## Skill
