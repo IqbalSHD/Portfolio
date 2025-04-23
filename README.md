@@ -9,7 +9,7 @@ Computer Science graduate passionate about backend and full-stack development, w
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ## Work Experience
 
-**1. Backend IT Department At Pintas Utama SDN BHD. (_FEb 2025 – Present_)**
+**1. Backend Developer At Pintas Utama SDN BHD. (_FEb 2025 – Present_)**
 - Designed and developed a custom Property Management System, a web-based application hosted on cPanel with phpMyAdmin for database management.
 - Built features to add and manage property records containing 20+ key attributes. 
 - Implemented modules for uploading and managing unlimited images and documents per property.
