@@ -28,7 +28,7 @@ Computer Science graduate passionate about backend and full-stack development, w
 - Developed a WordPress website for Kulim Golf & Country Resort.
 - Website: <a class="badge-base__link LI-simple-link" href="https://www2.kulimgolf.com.my/"> https://www2.kulimgolf.com.my/</a>
 - Updated the e-procurement website to a new C# .NET version.
-- IT support: Managed setup, reset, and formatting tasks for company notebooks.
+- IT support: Managed setup, installation, reset, and troubleshooting for company hardware and software systems.
 - Event Participation:
   - Exhibitor at KIDEC 2024: Explained KDC functions, demonstrated 3D printing, and conducted mini drone tutorials.
   - Facilitated STEM4FUN: Introduced primary students to coding and Microsoft MakeCode.
