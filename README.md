@@ -13,8 +13,8 @@ Computer Science graduate passionate about backend and full-stack development, w
 Designed and developed a responsive, web-based Property Management System using PHP and phpMyAdmin for database management, hosted on cPanel. Key features and capabilities include:
 - Developed and managed a custom database to support both Sales & Purchase (S&P) and Rental property records, with over 25 inputs for S&P and 35 inputs for Rental forms.
 - Enabled each form to support the upload of unlimited images and documents, with strict validation:
-- Accepts only valid file types (e.g., images for image fields, documents for document fields).
-- Rejects file uploads exceeding 50MB with appropriate warning messages.
+  - Accepts only valid file types (e.g., images for image fields, documents for document fields).
+  - Rejects file uploads exceeding 50MB with appropriate warning messages.
 - Displays validation alerts for any missing required input fields.
 - Implemented a confirmation message upon successful property submission.
 - Developed a dashboard interface with data presented across tabbed views:
