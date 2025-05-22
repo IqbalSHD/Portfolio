@@ -10,14 +10,26 @@ Computer Science graduate passionate about backend and full-stack development, w
 ## Work Experience
 
 **1. Backend Developer At Pintas Utama SDN BHD. (_FEb 2025 – Present_)**
-- Designed and developed a custom Property Management System, a web-based application hosted on cPanel with phpMyAdmin for database management.
-- Built features to add and manage property records containing 20+ key attributes. 
-- Implemented modules for uploading and managing unlimited images and documents per property.
-- Created a user-friendly dashboard with tabbed views to organize property data:
-  - Tab 1: Property information 
-  - Tab 2: Property images
-  - Tab 3: Property documents
-- Developed data editing capabilities to update property information and manage associated files (edit variables, delete/replace images and documents).
+Designed and developed a responsive, web-based Property Management System using PHP and phpMyAdmin for database management, hosted on cPanel. Key features and capabilities include:
+- Developed and managed a custom database to support both Sales & Purchase (S&P) and Rental property records, with over 25 inputs for S&P and 35 inputs for Rental forms.
+- Enabled each form to support the upload of unlimited images and documents, with strict validation:
+- Accepts only valid file types (e.g., images for image fields, documents for document fields).
+- Rejects file uploads exceeding 50MB with appropriate warning messages.
+- Displays validation alerts for any missing required input fields.
+- Implemented a confirmation message upon successful property submission.
+- Developed a dashboard interface with data presented across tabbed views:
+  - Tab 1: Property details
+  - Tab 2: Uploaded images
+  - Tab 3: Uploaded documents
+- Built full data management functionality, allowing users to view, edit, delete, and replace property information, images, and documents.
+- Integrated a History Tracking System to log all user actions:
+Records who created the property, who uploaded or deleted specific files, and who edited property information.
+- For Rental properties, added a Tenant History feature to archive previous data before updating to new tenant records.
+- Enabled printing and PDF export of property data, images, and documents.
+- Designed the system to be mobile-friendly for on-the-go access.
+- Implemented role-based access control:
+  - Admin users have full access to all property data.
+  - Staff users have limited access to protect sensitive information.
 - Integrated an "Expiration Monitoring" page to flag properties nearing or past their rental end dates.
 
 **2. Web Designer and Postmaster Admin At Ministry of Health headquarters, Presint 1, Putrajaya. (_SEP 2024 – DEC 2024_)**
