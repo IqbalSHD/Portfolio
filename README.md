@@ -11,16 +11,13 @@ Computer Science graduate passionate about backend and full-stack development, w
 
 **1. Backend Developer At Pintas Utama SDN BHD. (_FEb 2025 – Present_)**
 Designed and developed a responsive, web-based Property Management System using PHP and phpMyAdmin for database management, hosted on cPanel. Key features and capabilities include:
-- Developed and managed a custom database to support both Sales & Purchase (S&P) and Rental property records, with over 25 inputs for S&P and 35 inputs for Rental forms.
+- Developed and managed a custom database to support both Sales & Purchase (S&P) and Rental property records.
 - Enabled each form to support the upload of unlimited images and documents, with strict validation:
   - Accepts only valid file types (e.g., images for image fields, documents for document fields).
   - Rejects file uploads exceeding 50MB with appropriate warning messages.
 - Displays validation alerts for any missing required input fields.
 - Implemented a confirmation message upon successful property submission.
-- Developed a dashboard interface with data presented across tabbed views:
-  - Tab 1: Property details
-  - Tab 2: Uploaded images
-  - Tab 3: Uploaded documents
+- Developed a dashboard interface with data presented across tabbed views.
 - Built full data management functionality, allowing users to view, edit, delete, and replace property information, images, and documents.
 - Integrated a History Tracking System to log all user actions:
 Records who created the property, who uploaded or deleted specific files, and who edited property information.
