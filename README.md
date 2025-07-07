@@ -9,7 +9,7 @@ Computer Science graduate passionate about backend and full-stack development, w
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ## Work Experience
 
-**1. Backend Developer At Pintas Utama SDN BHD. (_FEb 2025 – Present_)**
+**1. Backend Developer At Menang Idaman SDN BHD. (_FEb 2025 – Present_)**
 Designed and developed a responsive, web-based Property Management System using PHP and phpMyAdmin for database management, hosted on cPanel. Key features and capabilities include:
 - Developed and managed a custom database to support both Sales & Purchase (S&P) and Rental property records.
 - Enabled each form to support the upload of unlimited images and documents, with strict validation:
