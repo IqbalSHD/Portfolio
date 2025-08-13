@@ -30,6 +30,10 @@ Records who created the property, who uploaded or deleted specific files, and wh
 - Integrated an "Expiration Monitoring" page to flag properties nearing or past their rental end dates.
 - Other: Provided IT support and designed WordPress websites with integrated e-commerce functionality and SEO optimization.
 ![property](/github/dashboard.png)
+![property](/github/house.png)
+![property](/github/expiration.png)
+![property](/github/excelpdf.png)
+
 
 **2. Web Designer and Postmaster Admin At Ministry of Health headquarters, Presint 1, Putrajaya. (_SEP 2024 – DEC 2024_)**
 - Designed and developed several new website layouts to replace outdated designs, ensuring modern functionality and user experience.
