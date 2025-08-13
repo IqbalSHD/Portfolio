@@ -18,6 +18,9 @@ Designed and developed a responsive, web-based Property Management System using 
 - Displays validation alerts for any missing required input fields.
 - Implemented a confirmation message upon successful property submission.
 - Developed a dashboard interface with data presented across tabbed views.
+  - ![property](/github/dashboard.png)
+  - ![property](/github/house.png)
+
 - Built full data management functionality, allowing users to view, edit, delete, and replace property information, images, and documents.
 - Integrated a History Tracking System to log all user actions:
 Records who created the property, who uploaded or deleted specific files, and who edited property information.
@@ -28,11 +31,10 @@ Records who created the property, who uploaded or deleted specific files, and wh
   - Admin users have full access to all property data.
   - Staff users have limited access to protect sensitive information.
 - Integrated an "Expiration Monitoring" page to flag properties nearing or past their rental end dates.
+  - ![property](/github/expiration.png)
+
 - Other: Provided IT support and designed WordPress websites with integrated e-commerce functionality and SEO optimization.
-![property](/github/dashboard.png)
-![property](/github/house.png)
-![property](/github/expiration.png)
-![property](/github/excelpdf.png)
+  - ![property](/github/excelpdf.png)
 
 
 **2. Web Designer and Postmaster Admin At Ministry of Health headquarters, Presint 1, Putrajaya. (_SEP 2024 – DEC 2024_)**
