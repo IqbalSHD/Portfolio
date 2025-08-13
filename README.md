@@ -35,7 +35,7 @@ Records who created the property, who uploaded or deleted specific files, and wh
 - Filter property data by category and type, then export the filtered results to Excel or PDF format
   - ![property](/github/excelpdf.png)
 
-- Other: Provided IT support and designed WordPress websites(https://amanilife.my/) with integrated e-commerce functionality and SEO optimisation.
+- Other: Provided IT support and designed WordPress websites: https://amanilife.my/ with integrated e-commerce functionality and SEO optimisation.
 
 **2. Web Designer and Postmaster Admin At Ministry of Health headquarters, Presint 1, Putrajaya. (_SEP 2024 – DEC 2024_)**
 - Designed and developed several new website layouts to replace outdated designs, ensuring modern functionality and user experience.
