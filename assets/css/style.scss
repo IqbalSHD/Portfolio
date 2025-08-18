@@ -2,7 +2,7 @@
 ---
 
 /* Import the theme if available */
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap");
 
 /* Custom styling for portfolio */
 :root {
@@ -440,6 +440,16 @@ body {
   .contact-grid {
     grid-template-columns: 1fr;
   }
+  
+  .main-nav ul {
+    flex-direction: column;
+    gap: 0.25rem;
+  }
+  
+  .main-nav a {
+    padding: 0.6rem 0.8rem;
+    font-size: 0.9rem;
+  }
 }
 
 @media (max-width: 480px) {
@@ -484,17 +494,21 @@ html {
 
 /* Navigation styling */
 .main-nav {
-  margin: 2rem 0;
+  margin: 2rem 0 0 0;
 }
 
 .main-nav ul {
   list-style: none;
   padding: 0;
   margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.5rem;
 }
 
 .main-nav li {
-  margin: 0.5rem 0;
+  margin: 0;
 }
 
 .main-nav a {
@@ -506,11 +520,12 @@ html {
   transition: all 0.3s ease;
   background: rgba(255,255,255,0.1);
   font-weight: 500;
+  white-space: nowrap;
 }
 
 .main-nav a:hover {
   background: rgba(255,255,255,0.2);
-  transform: translateX(5px);
+  transform: translateY(-2px);
 }
 
 .main-nav i {

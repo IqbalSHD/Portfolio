@@ -23,7 +23,7 @@
   
   <div class="education-item">
     <h3>📚 Diploma in Computer Science</h3>
-    <p><strong>Universiti Teknologi MARA, Kampus Sunagai Petani Cawangan Kedah, Malaysia</strong></p>
+    <p><strong>Universiti Teknologi MARA, Kampus Sungai Petani Cawangan Kedah, Malaysia</strong></p>
     <p><em>June 2018 – August 2021</em></p>
   </div>
 </div>
