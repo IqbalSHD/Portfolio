@@ -224,6 +224,89 @@
             font-size: 0.9rem;
         }
 
+        /* Websites */
+        .websites-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+            gap: 2rem;
+            margin-top: 2rem;
+        }
+
+        .website-card {
+            background: white;
+            border-radius: 10px;
+            padding: 2rem;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            transition: transform 0.3s, box-shadow 0.3s;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .website-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 4px;
+            background: linear-gradient(90deg, #3498db, #2ecc71);
+        }
+
+        .website-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 30px rgba(0,0,0,0.2);
+        }
+
+        .website-content h3 {
+            color: #2c3e50;
+            margin-bottom: 1rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .website-content h3 i {
+            color: #3498db;
+        }
+
+        .website-features {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            margin: 1rem 0;
+        }
+
+        .feature-tag {
+            background: #27ae60;
+            color: white;
+            padding: 0.3rem 0.8rem;
+            border-radius: 15px;
+            font-size: 0.8rem;
+        }
+
+        .website-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            background: #3498db;
+            color: white;
+            padding: 0.8rem 1.5rem;
+            border-radius: 25px;
+            text-decoration: none;
+            font-weight: bold;
+            transition: background 0.3s, transform 0.3s;
+            margin-top: 1rem;
+        }
+
+        .website-link:hover {
+            background: #2980b9;
+            transform: translateY(-2px);
+        }
+
+        .website-link i {
+            font-size: 0.9rem;
+        }
+
         /* Projects */
         .projects-grid {
             display: grid;
@@ -407,6 +490,10 @@
                 grid-template-columns: 1fr;
             }
 
+            .websites-grid {
+                grid-template-columns: 1fr;
+            }
+
             .section {
                 padding: 60px 1rem;
             }
@@ -422,6 +509,7 @@
                 <li><a href="#home">Home</a></li>
                 <li><a href="#education">Education</a></li>
                 <li><a href="#experience">Experience</a></li>
+                <li><a href="#websites">Websites</a></li>
                 <li><a href="#skills">Skills</a></li>
                 <li><a href="#projects">Projects</a></li>
                 <li><a href="#awards">Awards</a></li>
@@ -564,6 +652,44 @@
                 <div class="skill-tags">
                     <span class="skill-tag">Bahasa Melayu</span>
                     <span class="skill-tag">English</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Websites Section -->
+    <section id="websites" class="section">
+        <h2>Live Websites</h2>
+        <div class="websites-grid">
+            <div class="website-card">
+                <div class="website-content">
+                    <h3><i class="fas fa-globe"></i> Amani Life</h3>
+                    <p>WordPress website with integrated e-commerce functionality and SEO optimization. Features modern design, responsive layout, and comprehensive product management system.</p>
+                    <div class="website-features">
+                        <span class="feature-tag">WordPress</span>
+                        <span class="feature-tag">E-commerce</span>
+                        <span class="feature-tag">SEO</span>
+                        <span class="feature-tag">Responsive</span>
+                    </div>
+                    <a href="https://amanilife.my/" target="_blank" class="website-link">
+                        <i class="fas fa-external-link-alt"></i> Visit Website
+                    </a>
+                </div>
+            </div>
+
+            <div class="website-card">
+                <div class="website-content">
+                    <h3><i class="fas fa-golf-ball"></i> Kulim Golf & Country Resort</h3>
+                    <p>Professional WordPress website for a golf resort featuring booking systems, facility showcase, and member management. Developed during internship at Kulim Technology Park Corporation.</p>
+                    <div class="website-features">
+                        <span class="feature-tag">WordPress</span>
+                        <span class="feature-tag">Resort Management</span>
+                        <span class="feature-tag">Booking System</span>
+                        <span class="feature-tag">Tourism</span>
+                    </div>
+                    <a href="https://www2.kulimgolf.com.my/" target="_blank" class="website-link">
+                        <i class="fas fa-external-link-alt"></i> Visit Website
+                    </a>
                 </div>
             </div>
         </div>
