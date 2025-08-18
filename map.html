@@ -1,0 +1,459 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Iqbal SHD - Location Map</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="stylemap.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <a href="index.html" class="back-btn">
+                <i class="fas fa-arrow-left"></i> Back to Portfolio
+            </a>
+            <h1><i class="fas fa-map-marker-alt"></i> My Locations</h1>
+            <p>Home & Work Locations in Malaysia</p>
+        </div>
+
+        <div class="map-container">
+            <div id="map-loading" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 1000; color: #666; font-size: 1.2rem;">
+                <i class="fas fa-spinner fa-spin"></i> Loading map...
+            </div>
+            <div id="map"></div>
+        </div>
+
+        <div class="location-info">
+            <div class="location-card">
+                <h3><i class="fas fa-home home-icon"></i> Current Home</h3>
+                <ul class="location-details">
+                    <li>Jalan PBS 14/2</li>
+                    <li>Taman Perindustrian Bukit Serdang</li>
+                    <li>43300 Seri Kembangan, Selangor</li>
+                    <li>Malaysia</li>
+                </ul>
+            </div>
+
+            <div class="location-card hometown">
+                <h3><i class="fas fa-map-marker-alt" style="color: #d35400;"></i> Hometown</h3>
+                <ul class="location-details">
+                    <li><strong>Kampung Pering</strong></li>
+                    <li>06100 Kodiang, Kedah</li>
+                    <li style="color: #d35400; font-style: italic;">🌾 My roots and family home</li>
+                </ul>
+            </div>
+
+            <div class="location-card office">
+                <h3><i class="fas fa-building office-icon"></i> Current Workplace</h3>
+                <ul class="location-details">
+                    <li>Menang Idaman SDN BHD</li>
+                    <li>SH-2-05 Block C, Geo Bukit Rimau</li>
+                    <li>Jalan Sungai Burung 32/68, Seksyen 32</li>
+                    <li>40460 Shah Alam, Selangor</li>
+                </ul>
+            </div>
+
+            <div class="location-card previous">
+                <h3><i class="fas fa-briefcase previous-icon"></i> Previous Workplaces</h3>
+                <ul class="location-details">
+                    <li><strong>Ministry of Health</strong> - Putrajaya (2024)</li>
+                    <li><strong>Kulim Technology Park</strong> - Kedah (2024)</li>
+                    <li><strong>Pejabat Daerah & Tanah</strong> - Alor Setar (2020)</li>
+                </ul>
+                <h4 style="margin-top: 15px; color: #8e44ad;"><i class="fas fa-clock"></i> Part-time Experiences</h4>
+                <ul class="location-details">
+                    <li><strong>Jelutong</strong> - Pulau Pinang</li>
+                    <li><strong>Aman Central Mall</strong> - Alor Setar</li>
+                    <li><strong>Taman Pandan</strong> - Alor Setar</li>
+                </ul>
+            </div>
+
+            <div class="location-card education">
+                <h3><i class="fas fa-graduation-cap" style="color: #27ae60;"></i> Educational Journey</h3>
+                <ul class="location-details">
+                    <li><strong>Bachelor:</strong> Kuala Terengganu - Terengganu</li>
+                    <li><strong>Diploma:</strong> Merbok - Kedah</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script>
+        // Initialize map centered to show all locations in Malaysia
+        const map = L.map('map', {
+            center: [4.2105, 101.9758],
+            zoom: 7,
+            zoomControl: true,
+            scrollWheelZoom: true
+        });
+
+        // Add tile layer with error handling
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+            maxZoom: 19,
+            subdomains: ['a', 'b', 'c']
+        }).addTo(map);
+
+        // Custom icons
+        const homeIcon = L.divIcon({
+            html: '<i class="fas fa-home" style="color: #3498db; font-size: 20px;"></i>',
+            iconSize: [30, 30],
+            className: 'custom-div-icon'
+        });
+
+        const officeIcon = L.divIcon({
+            html: '<i class="fas fa-building" style="color: #e74c3c; font-size: 20px;"></i>',
+            iconSize: [30, 30],
+            className: 'custom-div-icon'
+        });
+
+        const previousIcon = L.divIcon({
+            html: '<i class="fas fa-briefcase" style="color: #f39c12; font-size: 18px;"></i>',
+            iconSize: [28, 28],
+            className: 'custom-div-icon'
+        });
+
+        // Home location (Taman Perindustrian Bukit Serdang, Seri Kembangan)
+        const homeMarker = L.marker([3.0204, 101.7067], { icon: homeIcon })
+            .addTo(map)
+            .bindPopup(`
+                <div style="text-align: center; padding: 10px;">
+                    <h3 style="color: #3498db; margin-bottom: 10px;">
+                        <i class="fas fa-home"></i> Home
+                    </h3>
+                    <p><strong>Jalan PBS 14/2</strong></p>
+                    <p>Taman Perindustrian Bukit Serdang</p>
+                    <p>43300 Seri Kembangan, Selangor</p>
+                    <p style="margin-top: 10px; font-size: 0.9em; color: #666;">
+                        🏠 Industrial area in Seri Kembangan
+                    </p>
+                </div>
+            `);
+
+        // Office location (Geo Bukit Rimau, Shah Alam)
+        const officeMarker = L.marker([3.0673, 101.4533], { icon: officeIcon })
+            .addTo(map)
+            .bindPopup(`
+                <div style="text-align: center; padding: 10px;">
+                    <h3 style="color: #e74c3c; margin-bottom: 10px;">
+                        <i class="fas fa-building"></i> Current Office
+                    </h3>
+                    <p><strong>Menang Idaman SDN BHD</strong></p>
+                    <p>SH-2-05 Block C, Geo Bukit Rimau</p>
+                    <p>Jalan Sungai Burung 32/68, Seksyen 32</p>
+                    <p>40460 Shah Alam, Selangor</p>
+                    <p style="margin-top: 10px; font-size: 0.9em; color: #666;">
+                        💼 Backend Developer (Feb 2025 - Present)
+                    </p>
+                </div>
+            `);
+
+        // Previous workplace 1: Ministry of Health, Putrajaya
+        const putrajayaMarker = L.marker([2.9264, 101.6964], { icon: previousIcon })
+            .addTo(map)
+            .bindPopup(`
+                <div style="text-align: center; padding: 10px;">
+                    <h3 style="color: #f39c12; margin-bottom: 10px;">
+                        <i class="fas fa-briefcase"></i> Previous Office
+                    </h3>
+                    <p><strong>Ministry of Health</strong></p>
+                    <p>Kompleks E, Blok E1, E3, E6, E7 & E10</p>
+                    <p>Pusat Pentadbiran Kerajaan Persekutuan</p>
+                    <p>62590 Putrajaya, WP Putrajaya</p>
+                    <p style="margin-top: 10px; font-size: 0.9em; color: #666;">
+                        🌐 Web Designer & Postmaster Admin (Sep-Dec 2024)
+                    </p>
+                </div>
+            `);
+
+        // Previous workplace 2: Kulim Technology Park, Kedah
+        const kulimMarker = L.marker([5.3647, 100.5667], { icon: previousIcon })
+            .addTo(map)
+            .bindPopup(`
+                <div style="text-align: center; padding: 10px;">
+                    <h3 style="color: #f39c12; margin-bottom: 10px;">
+                        <i class="fas fa-briefcase"></i> Previous Office
+                    </h3>
+                    <p><strong>Kulim Technology Park Corporation</strong></p>
+                    <p>Suite 3.01-3.02, 3rd Floor</p>
+                    <p>KHTP Business Centre, Kulim Hi-tech Park</p>
+                    <p>09000 Kulim, Kedah</p>
+                    <p style="margin-top: 10px; font-size: 0.9em; color: #666;">
+                        💻 IT Support & Web Developer Intern (Mar-Jun 2024)
+                    </p>
+                </div>
+            `);
+
+        // Previous workplace 3: Pejabat Daerah & Tanah, Alor Setar
+        const alorSetarMarker = L.marker([6.1248, 100.3678], { icon: previousIcon })
+            .addTo(map)
+            .bindPopup(`
+                <div style="text-align: center; padding: 10px;">
+                    <h3 style="color: #f39c12; margin-bottom: 10px;">
+                        <i class="fas fa-briefcase"></i> Previous Office
+                    </h3>
+                    <p><strong>Pejabat Daerah & Tanah</strong></p>
+                    <p>Kompleks Pentadbiran, Taman Jubli Emas</p>
+                    <p>Jalan Suka Menanti, Kampung Suka Menanti</p>
+                    <p>05150 Alor Setar, Kedah</p>
+                    <p style="margin-top: 10px; font-size: 0.9em; color: #666;">
+                        ⚙️ Software Developer Intern (Oct-Dec 2020)
+                    </p>
+                </div>
+            `);
+
+        // Part-time work locations
+        // Part-time work 1: Jelutong, Pulau Pinang
+        L.marker([5.3992, 100.3167], {
+            icon: L.divIcon({
+                className: 'custom-div-icon',
+                html: '<div style="background: #8e44ad; color: white; border-radius: 50%; width: 35px; height: 35px; display: flex; align-items: center; justify-content: center; font-size: 14px; border: 2px solid white; box-shadow: 0 2px 8px rgba(0,0,0,0.3);"><i class="fas fa-clock"></i></div>',
+                iconSize: [35, 35],
+                iconAnchor: [17.5, 17.5]
+            })
+        }).addTo(map).bindPopup(`
+            <div style="text-align: center; padding: 12px; max-width: 280px;">
+                <h3 style="color: #8e44ad; margin: 0 0 8px 0;">⏰ Part-time Work</h3>
+                <p><strong>Jelutong, Pulau Pinang</strong></p>
+                <p style="font-size: 0.9em;">📍 1, Lebuh Tunku Kudin 1</p>
+                <p style="font-size: 0.9em;">11700 Jelutong, Pulau Pinang</p>
+                <hr style="margin: 8px 0;">
+                <p style="color: #666; font-size: 0.85em;">
+                    Part-time employment experience
+                </p>
+            </div>
+        `);
+
+        // Part-time work 2: Aman Central, Alor Setar
+        L.marker([6.1164, 100.3647], {
+            icon: L.divIcon({
+                className: 'custom-div-icon',
+                html: '<div style="background: #8e44ad; color: white; border-radius: 50%; width: 35px; height: 35px; display: flex; align-items: center; justify-content: center; font-size: 14px; border: 2px solid white; box-shadow: 0 2px 8px rgba(0,0,0,0.3);"><i class="fas fa-clock"></i></div>',
+                iconSize: [35, 35],
+                iconAnchor: [17.5, 17.5]
+            })
+        }).addTo(map).bindPopup(`
+            <div style="text-align: center; padding: 12px; max-width: 280px;">
+                <h3 style="color: #8e44ad; margin: 0 0 8px 0;">⏰ Part-time Work</h3>
+                <p><strong>Aman Central Mall</strong></p>
+                <p style="font-size: 0.9em;">📍 LG G 1 2, 1, Darul Aman Hwy</p>
+                <p style="font-size: 0.9em;">Kampung Lubok Peringgi</p>
+                <p style="font-size: 0.9em;">05150 Alor Setar, Kedah</p>
+                <hr style="margin: 8px 0;">
+                <p style="color: #666; font-size: 0.85em;">
+                    Retail/service part-time experience
+                </p>
+            </div>
+        `);
+
+        // Part-time work 3: Taman Pandan, Alor Setar
+        L.marker([6.1347, 100.3542], {
+            icon: L.divIcon({
+                className: 'custom-div-icon',
+                html: '<div style="background: #8e44ad; color: white; border-radius: 50%; width: 35px; height: 35px; display: flex; align-items: center; justify-content: center; font-size: 14px; border: 2px solid white; box-shadow: 0 2px 8px rgba(0,0,0,0.3);"><i class="fas fa-clock"></i></div>',
+                iconSize: [35, 35],
+                iconAnchor: [17.5, 17.5]
+            })
+        }).addTo(map).bindPopup(`
+            <div style="text-align: center; padding: 12px; max-width: 280px;">
+                <h3 style="color: #8e44ad; margin: 0 0 8px 0;">⏰ Part-time Work</h3>
+                <p><strong>Taman Pandan, Alor Setar</strong></p>
+                <p style="font-size: 0.9em;">📍 21 & 22 Susuran Talapia</p>
+                <p style="font-size: 0.9em;">Jalan Sultanah Sambungan</p>
+                <p style="font-size: 0.9em;">05350 Alor Setar, Kedah</p>
+                <hr style="margin: 8px 0;">
+                <p style="color: #666; font-size: 0.85em;">
+                    Local business part-time experience
+                </p>
+            </div>
+        `);
+
+        // Draw career journey lines
+        const careerPath = L.polyline([
+            [6.1248, 100.3678], // 1st job: Alor Setar (2020)
+            [5.3647, 100.5667], // 2nd job: Kulim (2024)
+            [2.9264, 101.6964], // 3rd job: Putrajaya (2024)
+            [3.0673, 101.4533]  // Current: Shah Alam (2025)
+        ], {
+            color: '#9b59b6',
+            weight: 3,
+            opacity: 0.8,
+            dashArray: '15, 10'
+        }).addTo(map);
+
+        careerPath.bindPopup(`
+            <div style="text-align: center; padding: 10px;">
+                <h4 style="color: #9b59b6;">🚀 Career Journey</h4>
+                <p><strong>2020-2025 Timeline:</strong></p>
+                <p>Alor Setar → Kulim → Putrajaya → Shah Alam</p>
+                <p style="font-size: 0.9em; color: #666;">
+                    Professional growth across Malaysia
+                </p>
+            </div>
+        `);
+
+        // Current commute line (home to current office)
+        const commuteLine = L.polyline([
+            [3.0204, 101.7067], // Home - Taman Perindustrian Bukit Serdang
+            [3.0673, 101.4533]  // Office - Geo Bukit Rimau, Shah Alam
+        ], {
+            color: '#e74c3c',
+            weight: 4,
+            opacity: 0.9
+        }).addTo(map);
+
+        commuteLine.bindPopup(`
+            <div style="text-align: center; padding: 10px;">
+                <h4 style="color: #e74c3c;">🚗 Daily Commute</h4>
+                <p>Seri Kembangan ↔ Shah Alam</p>
+                <p>Distance: ~25 km | Time: 45-60 min</p>
+            </div>
+        `);
+
+        // Add coverage areas for different regions
+        L.circle([3.0450, 101.5800], {
+            color: '#3498db',
+            fillColor: '#3498db',
+            fillOpacity: 0.05,
+            radius: 30000
+        }).addTo(map).bindPopup(`
+            <div style="text-align: center; padding: 10px;">
+                <h4 style="color: #3498db;">📍 Klang Valley</h4>
+                <p>Current work area</p>
+                <p>Selangor region</p>
+            </div>
+        `);
+
+        L.circle([5.7500, 100.4667], {
+            color: '#f39c12',
+            fillColor: '#f39c12',
+            fillOpacity: 0.05,
+            radius: 40000
+        }).addTo(map).bindPopup(`
+            <div style="text-align: center; padding: 10px;">
+                <h4 style="color: #f39c12;">📍 Northern Malaysia</h4>
+                <p>Previous work experiences</p>
+                <p>Kedah region</p>
+            </div>
+        `);
+
+        // Previous education 1: Diploma - Merbok, Kedah
+        L.marker([5.7167, 100.4167], {
+            icon: L.divIcon({
+                className: 'custom-div-icon',
+                html: '<div style="background: #16a085; color: white; border-radius: 50%; width: 35px; height: 35px; display: flex; align-items: center; justify-content: center; font-size: 14px; border: 2px solid white; box-shadow: 0 2px 8px rgba(0,0,0,0.3);"><i class="fas fa-university"></i></div>',
+                iconSize: [35, 35],
+                iconAnchor: [17.5, 17.5]
+            })
+        }).addTo(map).bindPopup(`
+            <div style="text-align: center; padding: 12px; max-width: 280px;">
+                <h3 style="color: #16a085; margin: 0 0 8px 0;">🏛️ Diploma Studies</h3>
+                <p><strong>Merbok, Kedah</strong></p>
+                <p style="font-size: 0.9em;">📍 08400 Merbok, Kedah</p>
+                <hr style="margin: 8px 0;">
+                <p style="color: #666; font-size: 0.85em;">
+                    Earlier academic foundation
+                </p>
+            </div>
+        `);
+
+        // Previous education 2: Degree - Kuala Terengganu
+        L.marker([5.3307, 103.1324], {
+            icon: L.divIcon({
+                className: 'custom-div-icon',
+                html: '<div style="background: #16a085; color: white; border-radius: 50%; width: 35px; height: 35px; display: flex; align-items: center; justify-content: center; font-size: 14px; border: 2px solid white; box-shadow: 0 2px 8px rgba(0,0,0,0.3);"><i class="fas fa-university"></i></div>',
+                iconSize: [35, 35],
+                iconAnchor: [17.5, 17.5]
+            })
+        }).addTo(map).bindPopup(`
+            <div style="text-align: center; padding: 12px; max-width: 280px;">
+                <h3 style="color: #16a085; margin: 0 0 8px 0;">🏛️ Previous Degree</h3>
+                <p><strong>Kuala Terengganu</strong></p>
+                <p style="font-size: 0.9em;">📍 Block A, Masmed 1</p>
+                <p style="font-size: 0.9em;">21080 Kuala Terengganu, Terengganu</p>
+                <hr style="margin: 8px 0;">
+                <p style="color: #666; font-size: 0.85em;">
+                    Previous degree studies
+                </p>
+            </div>
+        `);
+
+        // Village/Hometown - Kampung Pering, Kodiang
+        L.marker([6.371151, 100.334050], {
+            icon: L.divIcon({
+                className: 'custom-div-icon',
+                html: '<div style="background: #d35400; color: white; border-radius: 50%; width: 40px; height: 40px; display: flex; align-items: center; justify-content: center; font-size: 16px; border: 3px solid white; box-shadow: 0 2px 10px rgba(0,0,0,0.3);"><i class="fas fa-map-marker-alt"></i></div>',
+                iconSize: [40, 40],
+                iconAnchor: [20, 20]
+            })
+        }).addTo(map).bindPopup(`
+            <div style="text-align: center; padding: 15px; max-width: 300px;">
+                <h3 style="color: #d35400; margin: 0 0 10px 0;">🏡 Hometown Village</h3>
+                <p><strong>Kampung Pering</strong></p>
+                <p>📍 06100 Kodiang, Kedah</p>
+                <hr style="margin: 10px 0;">
+                <p style="color: #666; font-size: 0.9em;">
+                    🌾 Where it all began - my roots and family home
+                </p>
+                <p style="color: #d35400; font-size: 0.85em; font-style: italic;">
+                    "Home is where the heart is"
+                </p>
+            </div>
+        `);
+
+        // Map legend
+        const legend = L.control({position: 'bottomright'});
+        legend.onAdd = function (map) {
+            const div = L.DomUtil.create('div', 'legend');
+            div.innerHTML = `
+                <div style="background: white; padding: 15px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.2); font-family: Arial, sans-serif;">
+                    <h4 style="margin: 0 0 10px 0; color: #333;">🗺️ Map Legend</h4>
+                    <div style="margin: 5px 0;"><span style="color: #3498db;">🏠</span> Current Home</div>
+                    <div style="margin: 5px 0;"><span style="color: #d35400;">🏡</span> Hometown Village</div>
+                    <div style="margin: 5px 0;"><span style="color: #e74c3c;">🏢</span> Current Office</div>
+                    <div style="margin: 5px 0;"><span style="color: #f39c12;">🏢</span> Previous Full-time</div>
+                    <div style="margin: 5px 0;"><span style="color: #8e44ad;">⏰</span> Part-time Work</div>
+                    <div style="margin: 5px 0;"><span style="color: #16a085;">🏛️</span> Previous Education</div>
+                    <div style="margin: 5px 0;"><span style="color: #9b59b6;">━━</span> Career Path</div>
+                    <div style="margin: 5px 0;"><span style="color: #e74c3c;">━━</span> Daily Commute</div>
+                    <div style="margin: 5px 0;"><span style="color: #3498db; opacity: 0.3;">○</span> Work Areas</div>
+                </div>
+            `;
+            return div;
+        };
+        legend.addTo(map);
+
+        // Auto-open home marker popup after map loads
+        map.whenReady(function() {
+            // Hide loading indicator
+            const loadingEl = document.getElementById('map-loading');
+            if (loadingEl) {
+                loadingEl.style.display = 'none';
+            }
+            
+            setTimeout(() => {
+                homeMarker.openPopup();
+            }, 1000);
+        });
+
+        // Fit map to show all markers
+        const group = new L.featureGroup([
+            homeMarker, 
+            officeMarker, 
+            putrajayaMarker, 
+            kulimMarker, 
+            alorSetarMarker
+        ]);
+        
+        // Add responsive map behavior
+        map.on('resize', function() {
+            map.invalidateSize();
+        });
+
+        // Map styles are now handled in stylemap.css
+    </script>
+</body>
+</html>
