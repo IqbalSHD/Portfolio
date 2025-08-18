@@ -170,6 +170,12 @@
         <div class="websites-grid">
             <div class="website-card">
                 <div class="website-content">
+                    <div class="website-preview">
+                        <iframe src="https://amanilife.my/" title="Amani Life Website Preview" class="website-iframe"></iframe>
+                        <div class="iframe-overlay">
+                            <span>Click to view full website</span>
+                        </div>
+                    </div>
                     <h3><i class="fas fa-globe"></i> Amani Life</h3>
                     <p>WordPress website with integrated e-commerce functionality and SEO optimization. Features modern design, responsive layout, and comprehensive product management system.</p>
                     <div class="website-features">
@@ -186,12 +192,18 @@
 
             <div class="website-card">
                 <div class="website-content">
+                    <div class="website-preview">
+                        <iframe src="https://www2.kulimgolf.com.my/" title="Kulim Golf Website Preview" class="website-iframe"></iframe>
+                        <div class="iframe-overlay">
+                            <span>Click to view full website</span>
+                        </div>
+                    </div>
                     <h3><i class="fas fa-golf-ball"></i> Kulim Golf & Country Resort</h3>
                     <p>Professional WordPress website for a golf resort featuring booking systems, facility showcase, and member management. Developed during internship at Kulim Technology Park Corporation.</p>
                     <div class="website-features">
                         <span class="feature-tag">WordPress</span>
                         <span class="feature-tag">Resort Management</span>
-                        <span class="feature-tag">Booking System</span>
+                        <span class="feature-tag">Advertisement</span>
                         <span class="feature-tag">Tourism</span>
                     </div>
                     <a href="https://www2.kulimgolf.com.my/" target="_blank" class="website-link">
@@ -329,6 +341,10 @@
         </div>
     </div>
 
+    <!-- Cursor Follower -->
+    <div class="cursor-follower"></div>
+    <div class="cursor-dot"></div>
+
     <script>
         // Smooth scrolling for navigation links
         document.querySelectorAll('a[href^="#"]').forEach(anchor => {
@@ -398,6 +414,82 @@
             card.addEventListener('mouseleave', function() {
                 this.style.boxShadow = '0 5px 15px rgba(0,0,0,0.1)';
             });
+        });
+
+        // Website iframe overlay click functionality
+        document.querySelectorAll('.iframe-overlay').forEach(overlay => {
+            overlay.addEventListener('click', function() {
+                const iframe = this.previousElementSibling;
+                const url = iframe.src;
+                window.open(url, '_blank');
+            });
+        });
+
+        // Cursor Follower Effect
+        const cursorFollower = document.querySelector('.cursor-follower');
+        const cursorDot = document.querySelector('.cursor-dot');
+        let mouseX = 0;
+        let mouseY = 0;
+        let followerX = 0;
+        let followerY = 0;
+        let dotX = 0;
+        let dotY = 0;
+
+        // Track mouse movement
+        document.addEventListener('mousemove', (e) => {
+            mouseX = e.clientX;
+            mouseY = e.clientY;
+            
+            // Show cursors when mouse moves
+            cursorFollower.classList.add('active');
+            cursorDot.classList.add('active');
+        });
+
+        // Hide cursors when mouse leaves window
+        document.addEventListener('mouseleave', () => {
+            cursorFollower.classList.remove('active');
+            cursorDot.classList.remove('active');
+        });
+
+        // Animate cursor followers
+        function animateCursor() {
+            // Smooth following for the main cursor
+            followerX += (mouseX - followerX) * 0.1;
+            followerY += (mouseY - followerY) * 0.1;
+            
+            // Quick following for the dot
+            dotX += (mouseX - dotX) * 0.8;
+            dotY += (mouseY - dotY) * 0.8;
+            
+            cursorFollower.style.left = followerX + 'px';
+            cursorFollower.style.top = followerY + 'px';
+            
+            cursorDot.style.left = dotX + 'px';
+            cursorDot.style.top = dotY + 'px';
+            
+            requestAnimationFrame(animateCursor);
+        }
+        
+        animateCursor();
+
+        // Add hover effects for interactive elements
+        const hoverElements = document.querySelectorAll('a, button, .clickable-image, .project-card, .website-card, .skill-tag, .tech-tag, .feature-tag');
+        
+        hoverElements.forEach(element => {
+            element.addEventListener('mouseenter', () => {
+                cursorFollower.classList.add('hover');
+                cursorDot.classList.add('hover');
+            });
+            
+            element.addEventListener('mouseleave', () => {
+                cursorFollower.classList.remove('hover');
+                cursorDot.classList.remove('hover');
+            });
+        });
+
+        // Hide default cursor on interactive elements
+        hoverElements.forEach(element => {
+            element.style.cursor = 'none';
         });
     </script>
 </body>
