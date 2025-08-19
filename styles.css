@@ -602,9 +602,11 @@ footer {
         flex-direction: column;
         justify-content: start;
         align-items: center;
-        padding-top: 2rem;
+        padding: 2rem 0;
         transition: right 0.3s ease;
         list-style: none;
+        overflow-y: auto;
+        -webkit-overflow-scrolling: touch;
     }
 
     .nav-links.active {
@@ -612,7 +614,8 @@ footer {
     }
 
     .nav-links li {
-        margin: 1rem 0;
+        margin: 0.8rem 0;
+        width: 100%;
     }
 
     .nav-links a {
@@ -621,6 +624,7 @@ footer {
         display: block;
         width: 100%;
         text-align: center;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.1);
     }
 
     .hero h1 {
