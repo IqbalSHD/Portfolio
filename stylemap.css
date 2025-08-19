@@ -8,143 +8,15 @@
 
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    min-height: 100vh;
-    padding: 2rem;
-}
-
-.container {
-    max-width: 1200px;
-    margin: 0 auto;
     background: white;
-    border-radius: 20px;
-    box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+    margin: 0;
+    padding: 0;
     overflow: hidden;
 }
 
-.header {
-    background: #2c3e50;
-    color: white;
-    padding: 2rem;
-    text-align: center;
-    position: relative;
-}
-
-.back-btn {
-    position: absolute;
-    left: 2rem;
-    top: 50%;
-    transform: translateY(-50%);
-    background: #3498db;
-    color: white;
-    padding: 0.8rem 1.5rem;
-    border: none;
-    border-radius: 25px;
-    text-decoration: none;
-    font-weight: bold;
-    transition: all 0.3s;
-    cursor: pointer;
-}
-
-.back-btn:hover {
-    background: #2980b9;
-    transform: translateY(-50%) translateY(-2px);
-}
-
-.header h1 {
-    font-size: 2.5rem;
-    margin-bottom: 0.5rem;
-}
-
-.header p {
-    font-size: 1.2rem;
-    opacity: 0.9;
-}
-
 .map-container {
-    position: relative;
-    height: 600px;
+    height: 100vh;
     width: 100%;
-}
-
-#map {
-    height: 100%;
-    width: 100%;
-}
-
-.location-info {
-    padding: 2rem;
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 2rem;
-}
-
-.location-card {
-    background: #f8f9fa;
-    padding: 1.5rem;
-    border-radius: 15px;
-    border-left: 4px solid #3498db;
-    transition: transform 0.3s;
-}
-
-.location-card:hover {
-    transform: translateY(-5px);
-}
-
-.location-card.office {
-    border-left-color: #e74c3c;
-}
-
-.location-card.previous {
-    border-left-color: #f39c12;
-}
-
-.location-card.education {
-    border-left-color: #27ae60;
-}
-
-.location-card.hometown {
-    border-left-color: #d35400;
-}
-
-.location-card h3 {
-    color: #2c3e50;
-    margin-bottom: 1rem;
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-}
-
-.location-card i {
-    font-size: 1.5rem;
-}
-
-.home-icon {
-    color: #3498db;
-}
-
-.office-icon {
-    color: #e74c3c;
-}
-
-.previous-icon {
-    color: #f39c12;
-}
-
-.location-details {
-    list-style: none;
-}
-
-.location-details li {
-    margin-bottom: 0.5rem;
-    padding-left: 1.5rem;
-    position: relative;
-}
-
-.location-details li::before {
-    content: '📍';
-    position: absolute;
-    left: 0;
 }
 
 /* Leaflet Custom Styles */
@@ -165,58 +37,4 @@ body {
 
 .leaflet-popup-tip {
     box-shadow: 0 2px 5px rgba(0,0,0,0.2);
-}
-
-/* Responsive Design */
-@media (max-width: 768px) {
-    body {
-        padding: 1rem;
-    }
-
-    .header {
-        padding: 1.5rem;
-    }
-
-    .back-btn {
-        left: 1rem;
-        padding: 0.6rem 1rem;
-        font-size: 0.9rem;
-    }
-
-    .header h1 {
-        font-size: 2rem;
-        margin-top: 0.5rem;
-    }
-
-    .header p {
-        font-size: 1rem;
-    }
-
-    .map-container {
-        height: 400px;
-    }
-
-    .location-info {
-        padding: 1.5rem;
-        grid-template-columns: 1fr;
-        gap: 1rem;
-    }
-
-    .location-card {
-        padding: 1rem;
-    }
-}
-
-@media (max-width: 480px) {
-    .header h1 {
-        font-size: 1.8rem;
-    }
-    
-    .map-container {
-        height: 350px;
-    }
-    
-    .location-info {
-        padding: 1rem;
-    }
 }
